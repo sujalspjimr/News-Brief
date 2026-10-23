@@ -181,7 +181,18 @@ def gemini_json(prompt):
         model = MODELS[_model_index[0]]
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
         _last_call[0] = time.time()
-        r = requests.post(url, headers={"x-goog-api-key": API_KEY}, json=body, timeout=180)
+        try:
+            r = requests.post(url, headers={"x-goog-api-key": API_KEY}, json=body, timeout=120)
+        except requests.exceptions.RequestException as e:
+            # Slow or dropped connection: retry, and after two failures switch to the next (faster) model
+            attempt += 1
+            print(f"  {model} timed out or dropped ({type(e).__name__}); attempt {attempt}")
+            if attempt >= 2 and _model_index[0] + 1 < len(MODELS):
+                _model_index[0] += 1
+                attempt = 0
+                print(f"  switching to {MODELS[_model_index[0]]}")
+            time.sleep(5)
+            continue
         if r.status_code in (404, 403) and _model_index[0] + 1 < len(MODELS):
             print(f"  model {model} not available to this key ({r.status_code}); trying {MODELS[_model_index[0] + 1]}")
             _model_index[0] += 1
@@ -199,7 +210,7 @@ def gemini_json(prompt):
 
 def pick_stories(articles):
     lines = "\n".join(
-        f"[{i}] {a['source']} ({a['category']}): {a['title']} - {a['summary'][:160]}"
+        f"[{i}] {a['source']} ({a['category']}): {a['title']} - {a['summary'][:90]}"
         for i, a in enumerate(articles)
     )
     prompt = f"""You are the editor of a balanced daily news digest for a reader who cares about worldwide news, business and technology.
