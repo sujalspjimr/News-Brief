@@ -1,0 +1,35 @@
+name: Build news digest
+
+on:
+  schedule:
+    - cron: "30 1 * * *"   # every day at 07:00 India time (01:30 UTC)
+  workflow_dispatch:        # lets you press a "Run workflow" button manually
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build digest
+        run: python newsagent.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Save changes
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update digest"
+          git push
