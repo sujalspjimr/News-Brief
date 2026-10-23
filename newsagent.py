@@ -36,7 +36,21 @@ MODELS = (
 )
 _model_index = [0]
 API_KEY = os.environ.get("GEMINI_API_KEY", "")
-MAX_STORIES = int(os.environ.get("MAX_STORIES", "9"))   # stories per digest
+# For each section: (full balanced briefs, extra one-line headlines).
+# Each full brief costs one AI request; one-line headlines are free.
+QUOTA = {
+    "World": (4, 6),
+    "India": (3, 5),
+    "Politics": (3, 4),
+    "Business": (3, 5),
+    "Tech": (3, 5),
+    "Science": (2, 4),
+    "Health": (2, 3),
+    "Environment": (2, 3),
+    "Sports": (2, 4),
+    "Entertainment": (2, 4),
+}
+CATEGORIES = list(QUOTA)
 HOURS_BACK = 36            # only consider articles newer than this
 PER_FEED = 12              # max articles taken from each feed
 ARCHIVE_DAYS = 90          # how far back "related past stories" can look
@@ -56,12 +70,25 @@ FEEDS = [
     ("The New York Times", "World", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"),
     ("The Hindu", "World", "https://www.thehindu.com/news/international/feeder/default.rss"),
     ("FRANCE 24", "World", "https://www.france24.com/en/rss"),
+    # India
+    ("The Hindu", "India", "https://www.thehindu.com/news/national/feeder/default.rss"),
+    ("The Indian Express", "India", "https://indianexpress.com/section/india/feed/"),
+    ("Times of India", "India", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"),
+    ("NDTV", "India", "https://feeds.feedburner.com/ndtvnews-top-stories"),
+    ("Hindustan Times", "India", "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"),
+    # Politics (US and global politics)
+    ("BBC News", "Politics", "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"),
+    ("NPR", "Politics", "https://feeds.npr.org/1014/rss.xml"),
+    ("The Guardian", "Politics", "https://www.theguardian.com/us-news/us-politics/rss"),
+    ("The New York Times", "Politics", "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"),
+    ("The Guardian", "Politics", "https://www.theguardian.com/politics/rss"),
     # Business
     ("BBC News", "Business", "https://feeds.bbci.co.uk/news/business/rss.xml"),
     ("The Guardian", "Business", "https://www.theguardian.com/uk/business/rss"),
     ("CNBC", "Business", "https://www.cnbc.com/id/10001147/device/rss/rss.html"),
     ("The New York Times", "Business", "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"),
     ("The Hindu BusinessLine", "Business", "https://www.thehindubusinessline.com/feeder/default.rss"),
+    ("The Economic Times", "Business", "https://economictimes.indiatimes.com/rssfeedsdefault.cms"),
     # Tech
     ("BBC News", "Tech", "https://feeds.bbci.co.uk/news/technology/rss.xml"),
     ("The Guardian", "Tech", "https://www.theguardian.com/technology/rss"),
@@ -70,6 +97,33 @@ FEEDS = [
     ("WIRED", "Tech", "https://www.wired.com/feed/rss"),
     ("TechCrunch", "Tech", "https://techcrunch.com/feed/"),
     ("MIT Technology Review", "Tech", "https://www.technologyreview.com/feed/"),
+    # Science
+    ("BBC News", "Science", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"),
+    ("The New York Times", "Science", "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"),
+    ("The Guardian", "Science", "https://www.theguardian.com/science/rss"),
+    ("NPR", "Science", "https://feeds.npr.org/1007/rss.xml"),
+    ("Nature", "Science", "https://www.nature.com/nature.rss"),
+    # Health
+    ("BBC News", "Health", "https://feeds.bbci.co.uk/news/health/rss.xml"),
+    ("The New York Times", "Health", "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"),
+    ("NPR", "Health", "https://feeds.npr.org/1128/rss.xml"),
+    ("STAT", "Health", "https://www.statnews.com/feed/"),
+    ("The Guardian", "Health", "https://www.theguardian.com/society/health/rss"),
+    # Environment and climate
+    ("The Guardian", "Environment", "https://www.theguardian.com/environment/rss"),
+    ("The New York Times", "Environment", "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"),
+    ("Carbon Brief", "Environment", "https://www.carbonbrief.org/feed/"),
+    ("Mongabay", "Environment", "https://news.mongabay.com/feed/"),
+    # Sports
+    ("BBC Sport", "Sports", "https://feeds.bbci.co.uk/sport/rss.xml"),
+    ("The Guardian", "Sports", "https://www.theguardian.com/sport/rss"),
+    ("ESPN", "Sports", "https://www.espn.com/espn/rss/news"),
+    ("The Hindu", "Sports", "https://www.thehindu.com/sport/feeder/default.rss"),
+    # Entertainment and culture
+    ("BBC News", "Entertainment", "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"),
+    ("The Guardian", "Entertainment", "https://www.theguardian.com/culture/rss"),
+    ("The New York Times", "Entertainment", "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"),
+    ("Variety", "Entertainment", "https://variety.com/feed/"),
 ]
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -208,22 +262,21 @@ def gemini_json(prompt):
     raise RuntimeError("Gemini kept failing or rate-limiting")
 
 
-def pick_stories(articles):
+def pick_stories(category, arts, n_total):
     lines = "\n".join(
-        f"[{i}] {a['source']} ({a['category']}): {a['title']} - {a['summary'][:90]}"
-        for i, a in enumerate(articles)
+        f"[{i}] {a['source']}: {a['title']} - {a['summary'][:90]}" for i, a in enumerate(arts)
     )
-    prompt = f"""You are the editor of a balanced daily news digest for a reader who cares about worldwide news, business and technology.
-Below are recent headlines from reputable publishers. Group articles about the same event into stories, then choose the {MAX_STORIES} most important stories.
+    prompt = f"""You are the editor of a balanced daily news digest. Below are recent headlines from reputable publishers in the "{category}" section.
+Group articles about the same event into stories, then choose the {n_total} most important and newsworthy stories, ordered from most to least important.
 
 Rules:
-- Prefer stories covered by several different publishers.
-- Aim for a mix of about one third World, one third Business, one third Tech, if the material allows.
+- Prefer stories covered by several different publishers and with real consequences for people.
 - Each story lists the numbers of the articles covering it (1 to 8 numbers).
-- Skip celebrity gossip, sports results, horoscopes, and pure opinion pieces.
+- Skip advertorials, shopping guides, listicles, quizzes, horoscopes and pure opinion pieces.
+- "blurb" is one neutral sentence (max 30 words) saying what happened, using only facts from the headlines.
 
 Return JSON exactly like:
-{{"stories":[{{"headline":"short neutral headline","category":"World or Business or Tech","article_ids":[0,1]}}]}}
+{{"stories":[{{"headline":"short neutral headline","blurb":"one neutral sentence","article_ids":[0,1]}}]}}
 
 ARTICLES:
 {lines}"""
@@ -292,59 +345,98 @@ def clean_points(points, n_sources):
     return out[:4]
 
 
+def is_duplicate(headline, seen_heads):
+    t = tokens(headline)
+    for h in seen_heads:
+        u = tokens(h)
+        if t and u and len(t & u) / len(t | u) >= 0.6:
+            return True
+    return False
+
+
+def make_story(today, category, headline, arts, archive):
+    candidates = related_candidates(headline + " " + " ".join(a["title"] for a in arts), archive)
+    w = write_story(headline, category, arts, candidates)
+    sources = [{"name": a["source"], "title": a["title"], "url": a["url"]} for a in arts]
+    valid_past = {p["id"]: p for p in candidates}
+    related = [
+        {"id": i, "date": valid_past[i]["date"], "headline": valid_past[i]["headline"]}
+        for i in w.get("related_past_ids", [])
+        if i in valid_past
+    ][:4]
+    background = [
+        {"title": t, "url": "https://en.wikipedia.org/w/index.php?search=" + quote_plus(t)}
+        for t in w.get("background_topics", [])[:3]
+        if isinstance(t, str) and t.strip()
+    ]
+    return {
+        "id": hashlib.md5((today + category + headline).encode()).hexdigest()[:8],
+        "category": category,
+        "headline": str(w.get("headline") or headline),
+        "summary": str(w.get("summary", "")),
+        "key_facts": [str(x) for x in w.get("key_facts", [])][:6],
+        "case_for": clean_points(w.get("case_for"), len(sources)),
+        "case_against": clean_points(w.get("case_against"), len(sources)),
+        "differ": str(w.get("where_sources_differ", "")),
+        "background": background,
+        "related": related,
+        "sources": sources,
+    }
+
+
 def build_stories(today, data_dir):
     print("Collecting articles...")
     articles = fetch_articles()
     if len(articles) < 10:
         sys.exit("Too few articles were collected (network problem?). Leaving the site unchanged.")
-    print(f"Collected {len(articles)} articles. Choosing top stories...")
-    picks = pick_stories(articles)
+    print(f"Collected {len(articles)} articles.")
     archive = load_archive(data_dir, today)
 
-    stories = []
-    for pick in picks[:MAX_STORIES]:
-        ids = [i for i in pick.get("article_ids", []) if isinstance(i, int) and 0 <= i < len(articles)]
-        arts = [articles[i] for i in dict.fromkeys(ids)][:6]
-        if not arts:
+    stories, quick = [], []
+    seen_urls, seen_heads = set(), []
+    for cat in CATEGORIES:
+        full_n, quick_n = QUOTA[cat]
+        arts = [a for a in articles if a["category"] == cat]
+        if len(arts) < 3:
+            print(f"Skipping {cat}: too few articles")
             continue
-        headline = pick.get("headline", arts[0]["title"])
-        category = pick.get("category") if pick.get("category") in ("World", "Business", "Tech") else arts[0]["category"]
-        print(f"Writing: {headline}")
+        print(f"== {cat}: choosing stories from {len(arts)} articles")
         try:
-            candidates = related_candidates(headline + " " + " ".join(a["title"] for a in arts), archive)
-            w = write_story(headline, category, arts, candidates)
+            picks = pick_stories(cat, arts, full_n + quick_n)
         except Exception as e:
-            print(f"  failed, skipping: {e}")
+            print(f"  could not choose {cat} stories, skipping: {e}")
             continue
-
-        sources = [{"name": a["source"], "title": a["title"], "url": a["url"]} for a in arts]
-        valid_past = {p["id"]: p for p in candidates}
-        related = [
-            {"id": i, "date": valid_past[i]["date"], "headline": valid_past[i]["headline"]}
-            for i in w.get("related_past_ids", [])
-            if i in valid_past
-        ][:4]
-        background = [
-            {"title": t, "url": "https://en.wikipedia.org/w/index.php?search=" + quote_plus(t)}
-            for t in w.get("background_topics", [])[:3]
-            if isinstance(t, str) and t.strip()
-        ]
-        stories.append(
-            {
-                "id": hashlib.md5((today + headline).encode()).hexdigest()[:8],
-                "category": category,
-                "headline": str(w.get("headline") or headline),
-                "summary": str(w.get("summary", "")),
-                "key_facts": [str(x) for x in w.get("key_facts", [])][:6],
-                "case_for": clean_points(w.get("case_for"), len(sources)),
-                "case_against": clean_points(w.get("case_against"), len(sources)),
-                "differ": str(w.get("where_sources_differ", "")),
-                "background": background,
-                "related": related,
-                "sources": sources,
+        rank = 0
+        for pick in picks:
+            ids = [i for i in pick.get("article_ids", []) if isinstance(i, int) and 0 <= i < len(arts)]
+            sel = [arts[i] for i in dict.fromkeys(ids)][:6]
+            if not sel:
+                continue
+            headline = str(pick.get("headline") or sel[0]["title"])
+            urls = {a["url"] for a in sel}
+            if urls & seen_urls or is_duplicate(headline, seen_heads):
+                continue
+            seen_urls |= urls
+            seen_heads.append(headline)
+            rank += 1
+            if rank > full_n + quick_n:
+                break
+            as_quick = {
+                "category": cat,
+                "headline": headline,
+                "blurb": str(pick.get("blurb", "")),
+                "sources": [{"name": a["source"], "title": a["title"], "url": a["url"]} for a in sel[:4]],
             }
-        )
-    return stories
+            if rank <= full_n:
+                print(f"  writing: {headline}")
+                try:
+                    stories.append(make_story(today, cat, headline, sel, archive))
+                except Exception as e:
+                    print(f"    failed, listing as a headline instead: {e}")
+                    quick.append(as_quick)
+            else:
+                quick.append(as_quick)
+    return stories, quick
 
 
 # ----------------------------------------------------------------------------
@@ -370,6 +462,7 @@ ul{padding-left:20px;margin:0}li{margin-bottom:8px}
 .ref{font:12px system-ui,sans-serif;color:var(--accent);margin-right:6px;white-space:nowrap}
 a{color:var(--accent)}.small{font:14px system-ui,sans-serif;color:var(--mute)}
 .pill{display:inline-block;margin:0 8px 6px 0;font:14px system-ui,sans-serif}
+.quick li{margin-bottom:10px;font:16px/1.5 system-ui,sans-serif}.quick h3{margin-top:4px}
 footer{color:var(--mute);font:13px/1.5 system-ui,sans-serif;margin-top:40px}
 .demo{background:#fff3cd;color:#664d03;padding:10px 14px;border-radius:8px;font:14px system-ui,sans-serif;margin-top:12px}
 """
@@ -393,6 +486,22 @@ def render_points(points, sources):
         return "<p class='small'>Nothing significant reported.</p>"
     items = "".join(f"<li>{esc(p['point'])} {refs(p['sources'], sources)}</li>" for p in points)
     return f"<ul>{items}</ul>"
+
+
+def render_quick(cat, items):
+    if not items:
+        return ""
+    lis = ""
+    for q in items:
+        links = " ".join(
+            f'<a class="ref" href="{esc(x["url"])}" target="_blank" rel="noopener">{esc(x["name"])}</a>'
+            for x in q["sources"]
+        )
+        lis += f"<li><b>{esc(q['headline'])}.</b> {esc(q['blurb'])} {links}</li>"
+    return (
+        f'<article class="quick" data-c="{esc(cat)}"><div class="tag">{esc(cat)}</div>'
+        f"<h3>More {esc(cat)} headlines</h3><ul>{lis}</ul></article>"
+    )
 
 
 def render_story(s):
@@ -434,12 +543,18 @@ def render_page(day, dates, demo):
     nav = "".join(
         f'<a href="{x}.html"{" class=on" if x == d else ""}>{x}</a>' for x in dates[:14]
     )
-    cats = ["All"] + sorted({s["category"] for s in day["stories"]})
+    quick = day.get("quick", [])
+    present = {s["category"] for s in day["stories"]} | {q["category"] for q in quick}
+    ordered = [c for c in CATEGORIES if c in present] + sorted(present - set(CATEGORIES))
+    cats = ["All"] + ordered
     filters = "".join(
         f'<button data-c="{esc(c)}"{" class=on" if c == "All" else ""}>{esc(c)}</button>' for c in cats
     )
     banner = '<div class="demo">SAMPLE DATA - this is a demo page, not real news.</div>' if demo else ""
-    body = "".join(render_story(s) for s in day["stories"])
+    body = ""
+    for c in ordered:
+        body += "".join(render_story(s) for s in day["stories"] if s["category"] == c)
+        body += render_quick(c, [q for q in quick if q["category"] == c])
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(SITE_TITLE)} - {esc(d)}</title><link rel="manifest" href="manifest.webmanifest">
@@ -529,6 +644,14 @@ def main():
         new = demo_day(today, "Example: governments debate new AI rules", "demo0002")
         new["stories"][0]["related"] = [{"id": "demo0001", "date": yday, "headline": old["stories"][0]["headline"]}]
         new["stories"].append({**demo_day(today, "Example: central bank holds interest rates", "demo0003")["stories"][0], "category": "Business"})
+        new["quick"] = [
+            {
+                "category": "Sports",
+                "headline": "Example: league final goes to extra time",
+                "blurb": "A placeholder one-line headline summary shows here.",
+                "sources": [{"name": "Publisher A", "title": "Example", "url": "https://example.com/c"}],
+            }
+        ]
         for day in (old, new):
             with open(os.path.join(data_dir, day["date"] + ".json"), "w", encoding="utf-8") as f:
                 json.dump(day, f)
@@ -538,14 +661,14 @@ def main():
 
     if not API_KEY:
         sys.exit("GEMINI_API_KEY is not set. See README.md, step 1 and step 4.")
-    stories = build_stories(today, data_dir)
-    if not stories:
+    stories, quick = build_stories(today, data_dir)
+    if not stories and not quick:
         sys.exit("No stories were produced. Leaving the site unchanged.")
-    day = {"date": today, "generated_at": now.strftime("%H:%M IST"), "stories": stories}
+    day = {"date": today, "generated_at": now.strftime("%H:%M IST"), "stories": stories, "quick": quick}
     with open(os.path.join(data_dir, today + ".json"), "w", encoding="utf-8") as f:
         json.dump(day, f, ensure_ascii=False, indent=1)
     render_all(out_dir)
-    print(f"Done: {len(stories)} stories written to {out_dir}")
+    print(f"Done: {len(stories)} full briefs and {len(quick)} headlines written to {out_dir}")
 
 
 if __name__ == "__main__":
