@@ -1,0 +1,1 @@
+{"name": "Balanced Briefing", "short_name": "Briefing", "start_url": "./", "display": "standalone", "background_color": "#fafaf7", "theme_color": "#1f4e8c", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
