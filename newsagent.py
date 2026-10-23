@@ -27,7 +27,14 @@ import requests
 # ----------------------------------------------------------------------------
 # SETTINGS - safe to edit
 # ----------------------------------------------------------------------------
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+# Models are tried in this order; the first one your key can use is kept.
+# (Google renames models often. Set a GEMINI_MODEL secret/variable to force one.)
+MODELS = (
+    [os.environ["GEMINI_MODEL"]]
+    if os.environ.get("GEMINI_MODEL")
+    else ["gemini-3.8-flash", "gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-3.6-flash"]
+)
+_model_index = [0]
 API_KEY = os.environ.get("GEMINI_API_KEY", "")
 MAX_STORIES = int(os.environ.get("MAX_STORIES", "9"))   # stories per digest
 HOURS_BACK = 36            # only consider articles newer than this
@@ -165,18 +172,26 @@ def gemini_json(prompt):
     wait = SECONDS_BETWEEN_AI_CALLS - (time.time() - _last_call[0])
     if wait > 0:
         time.sleep(wait)
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
     }
-    for attempt in range(4):
+    attempt = 0
+    while attempt < 4:
+        model = MODELS[_model_index[0]]
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
         _last_call[0] = time.time()
         r = requests.post(url, headers={"x-goog-api-key": API_KEY}, json=body, timeout=180)
-        if r.status_code in (429, 500, 503):
-            time.sleep(25 * (attempt + 1))
+        if r.status_code in (404, 403) and _model_index[0] + 1 < len(MODELS):
+            print(f"  model {model} not available to this key ({r.status_code}); trying {MODELS[_model_index[0] + 1]}")
+            _model_index[0] += 1
             continue
-        r.raise_for_status()
+        if r.status_code in (429, 500, 503):
+            attempt += 1
+            time.sleep(25 * attempt)
+            continue
+        if not r.ok:
+            raise RuntimeError(f"Gemini error {r.status_code} for model {model}: {r.text[:400]}")
         text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
         return json.loads(text)
     raise RuntimeError("Gemini kept failing or rate-limiting")
