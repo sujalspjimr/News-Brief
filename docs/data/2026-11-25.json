@@ -1,0 +1,1921 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "15:40 IST",
+ "stories": [
+  {
+   "id": "e8091bb4",
+   "category": "Politics",
+   "headline": "Jensen Huang's Return to Nvidia Sparks Political Debate and Investigations",
+   "summary": "President Donald Trump has publicly taken credit for negotiating the return of Jensen Huang as CEO of Nvidia, claiming the move benefits both the company and the U.S. economy. Following the announcement, Nvidia's stock rose significantly, and Trump posted an AI-generated image depicting Huang surrounded by Secret Service guards to his social media platform.\n\nHowever, Huang's reinstatement has drawn substantial political debate and scrutiny regarding national security and corporate governance. While Trump stated that federal officials conducted a thorough investigation that exonerated Huang and posed no national security threat, lawmakers from both parties have expressed concern. Democrats and some Republicans, including Senator Tom Cotton, are calling for congressional oversight, subpoenas, and compelled witness testimony to investigate whether laws were violated regarding advanced microchip technology access for China.\n\nAdditionally, the reinstatement has drawn criticism from workplace culture advocates in Silicon Valley, who argue that bringing Huang back sends a message that financial performance outweighs other workplace standards. The close association between Trump's intervention and Huang's return introduces potential political risks for the administration, as ongoing inquiries and potential state-level investigations continue to develop.",
+   "key_facts": [
+    "President Trump claimed credit for negotiating the return of Jensen Huang as CEO of Nvidia.",
+    "Trump stated that a federal investigation exonerated Huang and that his reinstatement poses no national security threat.",
+    "Lawmakers, including Republican Senator Tom Cotton, have called for congressional investigations into microchip access and export controls.",
+    "Some Silicon Valley workplace culture advocates criticized the reinstatement, arguing it prioritizes financial success over other values.",
+    "Nvidia's stock saw a significant increase following the announcement of Huang's return."
+   ],
+   "case_for": [
+    {
+     "point": "Supporters, including President Trump, argue that Huang's return is beneficial for Nvidia and the broader U.S. economy.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Proponents note that federal officials conducted a thorough review which they concluded showed no national security threat.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Lawmakers raise concerns about national security and potential violations of U.S. export control laws regarding advanced microchips and China.",
+     "sources": [
+      1,
+      6
+     ]
+    },
+    {
+     "point": "Workplace culture and diversity advocates criticize the move, arguing it suggests that financial results override other institutional standards.",
+     "sources": [
+      4
+     ]
+    }
+   ],
+   "differ": "BBC News provides detailed coverage of the political risks and the controversy surrounding Trump's social media posts and congressional reactions, whereas NPR and The Guardian touch on economic impacts, national security perspectives, workplace culture criticisms, and upcoming Senate committee testimony.",
+   "background": [
+    {
+     "title": "Nvidia",
+     "url": "https://en.wikipedia.org/w/index.php?search=Nvidia"
+    },
+    {
+     "title": "U.S. export controls on microchips",
+     "url": "https://en.wikipedia.org/w/index.php?search=U.S.+export+controls+on+microchips"
+    },
+    {
+     "title": "Jensen Huang",
+     "url": "https://en.wikipedia.org/w/index.php?search=Jensen+Huang"
+    }
+   ],
+   "related": [
+    {
+     "id": "c215a5da",
+     "date": "2026-11-12",
+     "headline": "Nvidia Board Weighs Future of CEO Jensen Huang Amid Espionage and Misconduct Scrutiny"
+    },
+    {
+     "id": "425f7cee",
+     "date": "2026-11-11",
+     "headline": "Nvidia CEO Jensen Huang Faces Investigation Over Alleged Affair With Suspected Chinese Spy"
+    },
+    {
+     "id": "774f181e",
+     "date": "2026-11-12",
+     "headline": "Nvidia Board Weighs CEO Jensen Huang's Future Amid Inquiries"
+    },
+    {
+     "id": "8534eb2c",
+     "date": "2026-11-17",
+     "headline": "Campaigns and political backing emerge for Jensen Huang's return to Nvidia"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Trump's rescue of Nvidia's Huang brings political risks",
+     "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "NPR",
+     "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+     "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+    },
+    {
+     "name": "NPR",
+     "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy"
+    },
+    {
+     "name": "NPR",
+     "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women"
+    },
+    {
+     "name": "NPR",
+     "title": "Ex-White House AI adviser weighs in on national security as Huang is back as Nvidia CEO",
+     "url": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates"
+    }
+   ]
+  },
+  {
+   "id": "f1a33c50",
+   "category": "Politics",
+   "headline": "Kilmar Ábrego García Leaves the US for Spain, Ending Legal Battle",
+   "summary": "Kilmar Ábrego García has left the United States for Spain on a commercial flight, bringing an end to a lengthy and complex legal battle with the Trump administration.\n\nÁbrego García's case drew widespread attention after he was wrongfully deported to El Salvador last year and placed in the Cecot prison, despite previously being granted protection from deportation due to the risk of gang persecution. Following an order from the US Supreme Court, the government admitted the error and returned him to the US. Although he subsequently faced human trafficking charges, a federal judge dismissed the case, concluding it was brought for political reasons.\n\nFollowing the dismissal, the administration continued attempts to remove him to other countries, including Uganda, Ghana, and Liberia, while his legal team and supporters resisted efforts to send him to nations where he did not wish to go. Ábrego García, who is married to a US citizen and lives in Maryland, ultimately chose to travel to Spain as a free man. His attorney stated that the departure is temporary and expressed hope for a future return to the United States.\n\nThe sources are thin, with the New York Times providing only brief mention of his departure for Spain and the prospect of deportation to Liberia, while the BBC offers a more detailed account of the history of his detention, legal proceedings, and statements from his lawyer and Senator Chris Van Hollen.",
+   "key_facts": [
+    "Kilmar Ábrego García left the US for Spain on a commercial flight.",
+    "He was previously wrongfully deported to El Salvador in March 2025 and held in the Cecot prison before being returned under a Supreme Court order.",
+    "Federal human trafficking charges against him were dismissed by a judge who said the case was brought for political reasons.",
+    "The Trump administration subsequently considered or attempted deportations to third countries including Uganda, Ghana, and Liberia.",
+    "Ábrego García is married to a US citizen and lived in Maryland after arriving in the US illegally from El Salvador as a teenager."
+   ],
+   "case_for": [
+    {
+     "point": "Supporters and advocates celebrated his departure to a country of his choice as a restoration of freedom and dignity after facing wrongful deportation and harsh detention conditions.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "His legal team maintains that he has options to return to the United States in the future to seek family reunification.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The Trump administration repeatedly pursued efforts to deport him to various third countries, including Uganda, Ghana, and Liberia, following the dismissal of human trafficking charges.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "His legal representatives argued that the administration pursued charges and deportation efforts for political reasons and would not give him a fair shake.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "The BBC provides an extensive account of Ábrego García's legal history, prison detention in El Salvador, and statements from his lawyer and Senator Chris Van Hollen, whereas The New York Times offers a very brief summary noting his departure to Spain and potential deportation to Liberia.",
+   "background": [
+    {
+     "title": "U.S. Immigration Policy",
+     "url": "https://en.wikipedia.org/w/index.php?search=U.S.+Immigration+Policy"
+    },
+    {
+     "title": "Deportation Defense",
+     "url": "https://en.wikipedia.org/w/index.php?search=Deportation+Defense"
+    },
+    {
+     "title": "Cecot Prison El Salvador",
+     "url": "https://en.wikipedia.org/w/index.php?search=Cecot+Prison+El+Salvador"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+     "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
+     "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+    }
+   ]
+  },
+  {
+   "id": "465322ab",
+   "category": "Politics",
+   "headline": "U.S. Intelligence Agencies Experience Breach of Unclassified Information",
+   "summary": "United States intelligence agencies, including the Central Intelligence Agency and the Office of the Director of National Intelligence, have experienced a security intrusion involving unclassified information.\n\nAccording to available reports, the breach highlights ongoing vulnerabilities within government digital infrastructure. The incident comes at a time of heightened overall concern regarding cybersecurity across federal institutions.\n\nThe provided sources are extremely thin and do not contain detailed information regarding the scale of the breach, the identity of the perpetrators, or the specific methods used in the intrusion.",
+   "key_facts": [
+    "U.S. intelligence agencies suffered a breach affecting unclassified information.",
+    "The intrusion specifically involved the C.I.A. and the Office of the Director of National Intelligence.",
+    "The event occurred amid heightened concerns about cybersecurity."
+   ],
+   "case_for": [
+    {
+     "point": "The affected information was unclassified, which may limit the direct national security impact compared to a breach of classified materials.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Any intrusion into intelligence agencies such as the C.I.A. and the Office of the Director of National Intelligence raises serious cybersecurity and operational concerns.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Computer security",
+     "url": "https://en.wikipedia.org/w/index.php?search=Computer+security"
+    },
+    {
+     "title": "Central Intelligence Agency",
+     "url": "https://en.wikipedia.org/w/index.php?search=Central+Intelligence+Agency"
+    },
+    {
+     "title": "Office of the Director of National Intelligence",
+     "url": "https://en.wikipedia.org/w/index.php?search=Office+of+the+Director+of+National+Intelligence"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "title": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
+     "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html"
+    }
+   ]
+  },
+  {
+   "id": "4e1c2aa4",
+   "category": "Business",
+   "headline": "Regulator Increases Energy Price Cap Resulting in Sharp Rise for Households",
+   "summary": "Energy bills for millions of households in England, Scotland, and Wales are set to rise by 26% starting in January, following a surge in wholesale gas prices driven by conflict in the Middle East. Regulator Ofgem announced that the typical annual energy bill for a household paying by direct debit will increase from £1,723 to £2,166 if sustained over a year, translating to an average monthly increase of about £37 during the coldest winter months. Ofgem noted that wholesale gas prices jumped 33% over the three-month assessment period, marking the largest increase since Russia's invasion of Ukraine.\n\nIn response to the rising costs, the government plans to provide millions of households with an automatic £100 payment beginning January 4, alongside an existing temporary removal of VAT from domestic electricity bills and a £150 Warm Home Discount for qualifying low-income beneficiaries. However, charities, think tanks, and consumer advocates warn that these measures fall short of protecting vulnerable populations, noting that debt is expected to rise and many low-income or older households are already cutting back on heating.\n\nIndustry representatives and energy experts emphasize that the crisis underscores Britain's deep vulnerability to volatile international fossil fuel markets and imported energy. Suggestions for long-term resilience include accelerating domestic renewable energy deployment, supporting biomethane generation, and establishing structures like a National Energy Guarantee to ensure households have access to essential energy during crises.",
+   "key_facts": [
+    "Ofgem increased the energy price cap by 26%, raising typical annual bills from £1,723 to £2,166 starting in January.",
+    "The increase is driven entirely by a 33% surge in wholesale gas prices caused by conflicts in the Middle East.",
+    "The government is providing a £100 automatic winter payment to millions of households, alongside an ongoing VAT cut on electricity.",
+    "Average electricity unit prices will rise to 32.69p per kilowatt-hour and gas to 10.96p per kilowatt-hour for variable tariff customers.",
+    "Charities and economists warn the increase will severely squeeze household finances, drive up debt, and force many to cut back on heating."
+   ],
+   "case_for": [
+    {
+     "point": "Government financial interventions, such as the £100 winter payment and temporary VAT cuts on electricity, provide immediate relief to help households manage rising winter bills.",
+     "sources": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "point": "The price cap mechanism adjusts variable rates to reflect true wholesale market costs while regulatory guidance requires suppliers to offer affordable repayment plans and identify struggling customers early.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "The crisis highlights the clear necessity to accelerate domestic renewable energy and green gas production to build long-term national energy resilience against international price shocks.",
+     "sources": [
+      1,
+      3
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The 26% price hike is a brutal blow during the coldest time of the year, threatening to push vulnerable populations—such as low-income older households—into severe financial hardship and dangerous rationing of heat.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Current government support measures are inadequate, with the £100 payment failing to cover the full scale of the increase and leaving out approximately one million low-income households.",
+     "sources": [
+      3
+     ]
+    },
+    {
+     "point": "Policy uncertainty and regulatory hesitance risk undermining alternative domestic energy solutions like biomethane, leaving the country overly exposed to volatile imported fossil fuels.",
+     "sources": [
+      3
+     ]
+    }
+   ],
+   "differ": "The BBC focuses broadly on explaining Ofgem's price cap mechanics, regional impacts, and regulatory advice, whereas The Guardian emphasizes sharp criticism from economic think tanks and charities regarding inadequate government support.",
+   "background": [
+    {
+     "title": "Ofgem",
+     "url": "https://en.wikipedia.org/w/index.php?search=Ofgem"
+    },
+    {
+     "title": "Energy price cap",
+     "url": "https://en.wikipedia.org/w/index.php?search=Energy+price+cap"
+    },
+    {
+     "title": "Renewable energy in the United Kingdom",
+     "url": "https://en.wikipedia.org/w/index.php?search=Renewable+energy+in+the+United+Kingdom"
+    }
+   ],
+   "related": [
+    {
+     "id": "2d614622",
+     "date": "2026-11-23",
+     "headline": "Energy Bills and Gas Prices Surge Amid Rising Supply Concerns and Regional Conflicts"
+    },
+    {
+     "id": "178a4e24",
+     "date": "2026-11-12",
+     "headline": "Energy and Heating Costs Rise Amid Middle East Turmoil"
+    },
+    {
+     "id": "a52f5487",
+     "date": "2026-11-19",
+     "headline": "UK Inflation Rises to 3.6% Amid Warnings of Significant Energy Bill Increases"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Energy bills to rise by 26% from January after gas prices surge",
+     "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "What will the energy cap changes mean for my bills?",
+     "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Campaigners call for emergency government support as average annual energy bill in Britain set to hit £2,166 – business live",
+     "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates"
+    }
+   ]
+  },
+  {
+   "id": "00b2aba9",
+   "category": "Business",
+   "headline": "US Preparing New Tariffs Affecting Major Global Trading Partners",
+   "summary": "The United States is reportedly preparing to announce new import taxes targeting several major global trading partners, with the policy expected to affect at least 14 jurisdictions, including China, the European Union, and Japan. The upcoming announcement follows a Section 301 investigation launched after the US Supreme Court ruled that previous tariffs implemented by President Donald Trump were illegal.\n\nUnder the new measures, affected countries will face varying tax rates determined by previous agreements struck with President Trump. The move coincides with ongoing trade tensions between the US and China, whose interim trade agreement is set to expire on January 10 following a recent summit and accusations from Washington that Beijing has not fully met commitments regarding agricultural purchases and critical minerals. Concurrently, China recently extended the suspension of its export ban on critical minerals such as gallium, germanium, and antimony until January 27.\n\nTariffs have served as a central policy of President Trump's administration, framed as a mechanism to protect and boost domestic manufacturing and job creation. Conversely, critics of the trade policy argue that import taxes increase financial burdens for American consumers and pose risks to the broader global economy.",
+   "key_facts": [
+    "The US is preparing to announce new tariffs affecting at least 14 jurisdictions, including China, the EU, and Japan.",
+    "The policy follows a Section 301 investigation initiated after the US Supreme Court struck down previous tariffs as illegal.",
+    "Import tax rates will vary based on individual trade deals previously struck with President Trump.",
+    "The announcement arrives as a US-China interim trade agreement approaches its January 10 expiration date.",
+    "China recently extended the suspension of its critical mineral export ban until January 27."
+   ],
+   "case_for": [
+    {
+     "point": "Tariffs are intended to boost domestic manufacturing and create jobs by countering foreign overproduction that displaces American production.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Critics argue that tariff policies lead to higher prices for American consumers and can damage the global economy.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Section 301",
+     "url": "https://en.wikipedia.org/w/index.php?search=Section+301"
+    },
+    {
+     "title": "Tariff",
+     "url": "https://en.wikipedia.org/w/index.php?search=Tariff"
+    },
+    {
+     "title": "US-China trade war",
+     "url": "https://en.wikipedia.org/w/index.php?search=US-China+trade+war"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "US preparing to unveil plan for new tariffs on global trading partners",
+     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "39a594b4",
+   "category": "Business",
+   "headline": "Huawei Found Guilty of Stealing US Trade Secrets and Bank Fraud",
+   "summary": "In a landmark US trial, technology and telecommunications giant Huawei has been found guilty of conspiracy to steal trade secrets, bank fraud, and conspiracy to violate US sanctions. A Brooklyn court jury convicted the Chinese firm on 10 out of 12 counts following a two-month trial.\n\nFederal prosecutors argued that Huawei spent decades using deceit and theft to gain a competitive advantage, including lying to banks regarding business dealings in Iran and misappropriating rival technology secrets. Attorney General Todd Blanche stated that the company operated on the basis of lies and theft.\n\nConversely, Huawei's defence team maintained that the company's success and expansion into 170 countries stem from its own innovation and hard work. While expressing mixed emotions about the verdict, the defence highlighted that the jury acquitted Huawei of the most serious overarching racketeering conspiracy charge, arguing this rejection proves the racketeering allegations lacked a factual basis. Sentencing is scheduled for September 2027, and Huawei's legal representatives have indicated plans for significant advocacy and an expected appeal.",
+   "key_facts": [
+    "Huawei was found guilty of 10 out of 12 counts, including stealing US trade secrets and bank fraud.",
+    "A Brooklyn court jury acquitted Huawei of the overarching racketeering conspiracy charge.",
+    "Federal prosecutors originally announced the charges against Huawei in 2019.",
+    "Sentencing for Huawei is planned for September 2027, and the company intends to appeal."
+   ],
+   "case_for": [
+    {
+     "point": "The jury acquitted Huawei of the racketeering charge, which the defence cited as confirmation that the overarching allegations of operating as a corrupt criminal enterprise lacked factual basis.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Huawei's defence argued that the company's global expansion into 170 countries and its success are the result of its own hard work and innovation rather than criminal conduct.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Federal prosecutors and the US Attorney General asserted that Huawei spent decades conducting its US business through lies, bank fraud, sanctions violations, and the theft of rival technology secrets.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Huawei",
+     "url": "https://en.wikipedia.org/w/index.php?search=Huawei"
+    },
+    {
+     "title": "Meng Wanzhou",
+     "url": "https://en.wikipedia.org/w/index.php?search=Meng+Wanzhou"
+    },
+    {
+     "title": "Racketeer Influenced and Corrupt Organizations Act",
+     "url": "https://en.wikipedia.org/w/index.php?search=Racketeer+Influenced+and+Corrupt+Organizations+Act"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "51a9d29f",
+   "category": "Tech",
+   "headline": "Jensen Huang Addresses Nvidia Staff and Market Fallout Following Reinstatement",
+   "summary": "Following his swift reinstatement as CEO of Nvidia after a brief departure, Jensen Huang addressed company staff to apologize for code of conduct violations regarding extramarital affairs, while market enthusiasm soon gave way to renewed tech sector volatility.\n\nDuring a livestreamed address to employees, Huang admitted he made terrible mistakes by being unfaithful and acknowledged the tumult he caused. However, he pushed back against reports that President Donald Trump pressured the board to reinstate him, asserting instead that the board evaluated the situation independently and that Trump merely assured them he was not a national security threat. Despite his return, Huang still faces potential congressional scrutiny regarding advanced chip export controls and his relationship with a woman accused of being a Chinese spy.\n\nThe initial market euphoria following Huang's return—which briefly added significant value to Nvidia—quickly faded as investors braced for ongoing volatility in the artificial intelligence sector. Shares slid as broader anxieties about the tech boom and data center financing resurfaced, with critics questioning the heavy reliance on political backing and market sentiment rather than traditional fundamentals. Meanwhile, state-run Chinese media welcomed his return with warnings against US \"witch-hunts,\" highlighting the geopolitical dimensions surrounding the chipmaker.\n\nNvidia remains at the center of the global AI buildout, though it continues to navigate investigations by US authorities and Congress regarding compliance with chip export bans. The dramatic events underscore the fragile mood of investors as the technology sector grapples with intersecting corporate governance, national security, and political questions.",
+   "key_facts": [
+    "Jensen Huang apologized to Nvidia staff for code of conduct violations related to extramarital affairs, admitting he made terrible mistakes.",
+    "Huang denied that President Donald Trump pressured the company's board into reinstating him as CEO.",
+    "Nvidia's board stated that its decision to bring back Huang included input from senior levels of the United States government.",
+    "US authorities have investigated whether semiconductors were diverted to China in breach of export controls by a company formerly run by Huang's alleged ex-lover.",
+    "Huang potentially faces upcoming congressional hearings before the House Foreign Affairs Committee and Senate Banking Committee.",
+    "Initial market gains following Huang's return faded as a wider tech sell-off and investor volatility resumed."
+   ],
+   "case_for": [
+    {
+     "point": "Supporters and company leadership view Huang as uniquely indispensable to Nvidia and a critical leader for maintaining American dominance in advanced AI technology.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Proponents of his return argue that his 33-year tenure, deep technical expertise, and hands-on approach are vital to driving Nvidia's chip development and the broader AI sector.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Some state-run media and external commentators welcomed his reinstatement, criticizing the allegations and media coverage as malicious \"witch-hunts.\"",
+     "sources": [
+      4
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Critics and congressional leaders argue that questions remain unanswered regarding how advanced technology reached foreign competitors and what role political figures played in his reinstatement.",
+     "sources": [
+      3
+     ]
+    },
+    {
+     "point": "Skeptics and market observers express deep concern over extreme market volatility and the reliance on political backing and high-level intervention rather than steady fundamentals.",
+     "sources": [
+      2,
+      5
+     ]
+    },
+    {
+     "point": "Observers and local officials have questioned the stability of an economic system where working Americans' pensions and major market valuations are tied to corporate leadership controversies.",
+     "sources": [
+      2,
+      6
+     ]
+    }
+   ],
+   "differ": "BBC focuses more broadly on the macroeconomics of the AI boom, market jitters, and Huang's historical irreplaceability, whereas The Guardian provides detailed quotes from Huang's staff apology, congressional responses, and international media reactions.",
+   "background": [
+    {
+     "title": "Nvidia",
+     "url": "https://en.wikipedia.org/w/index.php?search=Nvidia"
+    },
+    {
+     "title": "Semiconductor export controls",
+     "url": "https://en.wikipedia.org/w/index.php?search=Semiconductor+export+controls"
+    },
+    {
+     "title": "Artificial intelligence industry",
+     "url": "https://en.wikipedia.org/w/index.php?search=Artificial+intelligence+industry"
+    }
+   ],
+   "related": [
+    {
+     "id": "460dcb69",
+     "date": "2026-11-09",
+     "headline": "Nvidia Investigates CEO Jensen Huang Following Reports of Ties to Suspected Chinese Intelligence"
+    },
+    {
+     "id": "8534eb2c",
+     "date": "2026-11-17",
+     "headline": "Campaigns and political backing emerge for Jensen Huang's return to Nvidia"
+    },
+    {
+     "id": "cde854cc",
+     "date": "2026-11-09",
+     "headline": "Nvidia Investigates CEO Jensen Huang Over Relationship With Suspected Chinese Spy"
+    },
+    {
+     "id": "425f7cee",
+     "date": "2026-11-11",
+     "headline": "Nvidia CEO Jensen Huang Faces Investigation Over Alleged Affair With Suspected Chinese Spy"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+     "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+     "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+     "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
+     "url": "https://www.theguardian.com/technology/video/2026/nov/24/mamdani-questions-ai-economy-as-jensen-huang-returns-to-nvidia-video"
+    }
+   ]
+  },
+  {
+   "id": "30775d57",
+   "category": "Tech",
+   "headline": "Tidal Announces Ban and Removal of 100% AI-Generated Music",
+   "summary": "Music streaming service Tidal has announced that it will ban 100% AI-generated music from its platform and delete approximately 27 million tracks, representing 6.3% of its total catalog. The new policy is scheduled to go into effect on December 9. Tidal stated that the decision was made because entirely AI-generated music diverts streams and royalties away from human artists, confuses fans, and buries authentic music under content that nobody listens to.\n\nAccording to Tidal, the volume of artificial intelligence content on the platform has surged in recent months. Over the prior 90 days, 43% of tracks distributed on the service were identified as fully AI-generated, and on November 6 alone, 60% of daily uploads were completely artificial. Despite this influx, user engagement with these tracks remains extremely low, with 96% of AI-labeled songs receiving zero streams over the past three months. Additionally, the company reported removing 65,000 to 66,000 tracks for suspected impersonation of real artists.\n\nWhile fully generated tracks will be removed, Tidal noted that music created with the assistance of AI tools will still be permitted as long as it includes human elements. This stance makes Tidal the most stringent among major streaming platforms regarding fully artificial music. Other major services, such as Spotify and Apple Music, currently label AI content rather than banning it entirely, though some platforms have independently removed large quantities of low-quality spam or slop tracks.",
+   "key_facts": [
+    "Tidal announced a complete ban on 100% AI-generated music, taking effect on December 9.",
+    "The streaming service plans to delete approximately 27 million tracks, which comprise 6.3% of its catalog.",
+    "Tidal reported that 43% of tracks distributed on its platform over the prior 90 days were 100% AI-generated.",
+    "96% of the platform's AI-labeled tracks received zero streams in the past three months.",
+    "Tracks created with AI assistance will still be allowed as long as they contain human elements.",
+    "Tidal has already removed roughly 65,000 to 66,000 tracks flagged for impersonating real artists."
+   ],
+   "case_for": [
+    {
+     "point": "Protects human artists from having their royalties and streams diverted by automated, low-value content.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Ensures listeners can easily discover authentic music without it being buried under unrequested AI tracks.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Addresses the issue of misleading content and unauthorized impersonations of real artists.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The sheer volume of AI-generated uploads makes moderation and curation difficult, with artificial tracks reaching up to 60% of uploads on a single day.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Some listeners may not particularly mind AI music, presenting a divergence in consumer preferences versus platform policy.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "differ": "Source 2 provides slightly different figures regarding artist impersonation removals, stating approximately 66,000 tracks were removed compared to Source 1's citation of 65,000.",
+   "background": [
+    {
+     "title": "Artificial intelligence in music",
+     "url": "https://en.wikipedia.org/w/index.php?search=Artificial+intelligence+in+music"
+    },
+    {
+     "title": "Copyright and artificial intelligence",
+     "url": "https://en.wikipedia.org/w/index.php?search=Copyright+and+artificial+intelligence"
+    },
+    {
+     "title": "Music streaming",
+     "url": "https://en.wikipedia.org/w/index.php?search=Music+streaming"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+     "url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music"
+    },
+    {
+     "name": "Ars Technica",
+     "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+    }
+   ]
+  },
+  {
+   "id": "58a1ea67",
+   "category": "Tech",
+   "headline": "Meta Launches Muse AI Agent in the UK Amid Regulatory Scrutiny",
+   "summary": "Meta has officially launched its AI agent, Muse, in the UK, allowing users to delegate tasks such as shopping, organizing calendars, and searching for energy deals. The tool can operate as a standalone app or within WhatsApp, and Meta has partnered with various British businesses, including Marks & Spencer, Sainsbury's, and easyJet, to help the agent navigate local services and retail platforms.\n\nWhile Meta highlights the potential for efficiency and convenience, the launch has drawn close attention from UK regulators. The Information Commissioner's Office (ICO) and the Competition and Markets Authority (CMA) have engaged with Meta regarding data protection and consumer rights. Meta has committed to a voluntary monitoring and reporting scheme with the ICO and made adjustments to its terms following talks with the CMA.\n\nThe rollout is part of Meta's massive financial investment in artificial intelligence. Supporters point to its utility in managing everyday administrative burdens and automating routine purchases. Conversely, concerns have been raised regarding personal privacy boundaries, the frequency of permission requests, and internal employee reports concerning performance and data handling during testing phases.",
+   "key_facts": [
+    "Meta launched its Muse AI agent in the UK for users aged 18 and older.",
+    "The AI agent can handle tasks like booking travel, sending emails, and shopping, but requires user permission for purchases and messages.",
+    "UK regulators, including the ICO and CMA, monitored the launch and discussed data protection and consumer fairness with Meta.",
+    "Meta partnered with British companies like Marks & Spencer, Sainsbury's, easyJet, and Currys to integrate the app with local services.",
+    "Walmart announced a partnership with Meta to allow customers to shop Black Friday deals directly through the Muse assistant."
+   ],
+   "case_for": [
+    {
+     "point": "Saves time and automates tedious administrative tasks like organizing school calendars and hunting for cheaper energy deals.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Features built-in safety controls requiring user approval for purchases and messages, preventing the agent from acting autonomously without consent.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Partnerships with major retailers like Walmart and British brands provide seamless shopping integrations for consumers.",
+     "sources": [
+      2,
+      3
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Raises personal privacy concerns and forces users to confront uncomfortable boundaries when linking personal emails, calendars, and messages.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Constant security checks and permission requests can make interactions feel awkward or annoying, though settings can be adjusted.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "UK regulators remain cautious, monitoring the product closely to ensure compliance with data protection laws and consumer fairness.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "differ": "The BBC focused heavily on the personal user experience and privacy friction, The Guardian emphasized the commercial shopping aspects and regulatory involvement, and TechCrunch detailed the specific retail integration with Walmart.",
+   "background": [
+    {
+     "title": "Information Commissioner's Office",
+     "url": "https://en.wikipedia.org/w/index.php?search=Information+Commissioner%27s+Office"
+    },
+    {
+     "title": "Competition and Markets Authority",
+     "url": "https://en.wikipedia.org/w/index.php?search=Competition+and+Markets+Authority"
+    },
+    {
+     "title": "Meta AI",
+     "url": "https://en.wikipedia.org/w/index.php?search=Meta+AI"
+    }
+   ],
+   "related": [
+    {
+     "id": "41cc3b0e",
+     "date": "2026-11-06",
+     "headline": "Airbnb and Meta Announce New AI Agent Features"
+    },
+    {
+     "id": "0a6f510f",
+     "date": "2026-11-20",
+     "headline": "Reports Detail Potential Pricing and Internal Privacy Concerns for Meta's Muse Charm and AI Agent"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+     "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"
+    },
+    {
+     "name": "TechCrunch",
+     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+     "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+    }
+   ]
+  },
+  {
+   "id": "62971f28",
+   "category": "Science",
+   "headline": "Record Heat-Linked Deaths Estimated in England",
+   "summary": "The UK Health Security Agency (UKHSA) has estimated that more than 5,000 people suffered heat-associated deaths in England during the summer, marking the highest number since records began in 2016. Specifically, an estimated 5,258 heat-linked deaths occurred, which is roughly twice the previous high of 2,985 recorded in 2022. The deadliest period occurred between 21 and 28 June, coinciding with temperatures peaking at 38C and accounting for an estimated 2,401 heat-associated deaths.\n\nEngland experienced its hottest summer on record in 2026, driven by stalled areas of high pressure known as heat domes that caused persistent heatwaves. The season included a record-smashing May heatwave, a June heatwave reaching 38.0C in Norfolk, and a mid-August peak of 38.2C in Gloucestershire. Additionally, a lack of rainfall led to droughts across more than two-thirds of England and all of Wales, alongside wildfires.\n\nIn response to the figures, health officials and government leaders emphasized the urgent need for long-term adaptation. Health Secretary Yvette Cooper offered condolences and announced she has asked the NHS to prepare for summer as seriously as it prepares for winter. The UKHSA warned that climate change will continue to increase the length, frequency, and intensity of extreme heat, necessitating structural changes to homes, neighborhoods, and healthcare settings.",
+   "key_facts": [
+    "The UKHSA estimated 5,258 heat-linked deaths in England this summer, the highest since records began in 2016.",
+    "The figure is twice the previous high of 2,985 deaths recorded in 2022.",
+    "The deadliest period was between 21 and 28 June, with an estimated 2,401 heat-associated deaths during a peak of 38C.",
+    "The Met Office reported 2026 as the hottest summer on record, featuring persistent heatwaves and heat domes.",
+    "Health Secretary Yvette Cooper stated she has asked the NHS to prepare for summer as seriously as it prepares for winter."
+   ],
+   "case_for": [
+    {
+     "point": "Public health authorities and government officials are utilizing the data to push for proactive seasonal preparation, with the Health Secretary directing the NHS to treat summer readiness with the same seriousness as winter planning.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Experts highlight that acknowledging these figures emphasizes the critical need for longer-term societal adaptation, including upgrading homes, neighborhoods, and care settings for a warming climate.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The record-breaking death toll underscores the severe human toll and public health risks posed by increasingly intense and frequent extreme weather events.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Persistent heat and a lack of rainfall caused widespread environmental strain, resulting in droughts across more than two-thirds of England and destructive wildfires.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "UK Health Security Agency",
+     "url": "https://en.wikipedia.org/w/index.php?search=UK+Health+Security+Agency"
+    },
+    {
+     "title": "Met Office",
+     "url": "https://en.wikipedia.org/w/index.php?search=Met+Office"
+    },
+    {
+     "title": "Climate change adaptation",
+     "url": "https://en.wikipedia.org/w/index.php?search=Climate+change+adaptation"
+    }
+   ],
+   "related": [
+    {
+     "id": "0bb9470c",
+     "date": "2026-10-23",
+     "headline": "Estimated 50,000 Deaths Attributed to Summer Heat Waves in European Cities"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Record 5,200 heat-linked deaths estimated in England this year",
+     "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "7843db42",
+   "category": "Health",
+   "headline": "Measles Cases on the Rise in the United States",
+   "summary": "Measles cases are reportedly on the rise in the United States, presenting growing health considerations for both unvaccinated individuals and certain vaccinated groups. According to medical experts, the danger is greatest for those who have not received a vaccine, while individuals born before 1989 who were previously vaccinated may also no longer be sufficiently protected.\n\nIn response to the rising infection rates, the situation is beginning to influence daily life and travel decisions. Some new parents are choosing to forgo Thanksgiving travel, opting not to take chances on airplanes, trains, or drives into areas with high infection rates.",
+   "key_facts": [
+    "Measles cases are on the rise in the United States.",
+    "The danger is greatest for unvaccinated individuals.",
+    "Medical experts note that vaccinated people born before 1989 may no longer be sufficiently protected.",
+    "Some families and new parents are forgoing Thanksgiving travel to avoid areas with high infection rates."
+   ],
+   "case_for": [
+    {
+     "point": "Public awareness of rising measles risks is prompting families to take precautionary measures, such as altering travel plans to avoid high-infection areas.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Rising measles cases pose heightened health risks, particularly to unvaccinated individuals and older vaccinated populations born before 1989 who may lack sufficient protection.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "Source 1 focuses on the medical vulnerability of specific demographic groups such as adults and older vaccinated populations, while Source 2 focuses on the practical societal impacts on holiday travel decisions.",
+   "background": [
+    {
+     "title": "Measles vaccine",
+     "url": "https://en.wikipedia.org/w/index.php?search=Measles+vaccine"
+    },
+    {
+     "title": "Measles",
+     "url": "https://en.wikipedia.org/w/index.php?search=Measles"
+    }
+   ],
+   "related": [
+    {
+     "id": "47c67544",
+     "date": "2026-11-11",
+     "headline": "Data Suggests the U.S. Has Lost Measles-Elimination Status"
+    },
+    {
+     "id": "f8e87466",
+     "date": "2026-11-15",
+     "headline": "U.S. Loses Measles Elimination Status According to Global Health Authorities"
+    },
+    {
+     "id": "1e739f62",
+     "date": "2026-11-16",
+     "headline": "US Loses Measles Elimination Status According to Global Health Authorities"
+    },
+    {
+     "id": "9b6b10b5",
+     "date": "2026-11-18",
+     "headline": "United States Loses Measles Elimination Status Amid Major Outbreak"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "title": "Measles Is a Growing Risk for Adults in the United States",
+     "url": "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html"
+    },
+    {
+     "name": "The New York Times",
+     "title": "With Measles on the Rise, Some Families Are Forgoing Thanksgiving Travel",
+     "url": "https://www.nytimes.com/2026/11/25/us/this-thanksgiving-some-families-wonder-should-i-stay-home-with-my-baby.html"
+    }
+   ]
+  },
+  {
+   "id": "cc15113e",
+   "category": "Health",
+   "headline": "Major Survey Finds Decline in Sexual Frequency and Increase in Virginity Among Young Adults in Britain",
+   "summary": "A comprehensive study by the National Survey of Sexual Attitudes and Lifestyles (Natsal) has revealed that people in Britain are having less sex than in previous decades. Adults under 45 now report having sex an average of twice a month, which is down from four times a month in 1990 and three times a month in 2010. The trend is especially pronounced among young adults, with one in three individuals under 25 reporting that they have never had sexual intercourse, an increase from about one in five in the previous study.\n\nThe research, published across five papers in the Lancet, investigated data collected from roughly 6,700 people across England, Scotland, and Wales between September 2022 and January 2024. While the survey identifies a substantial decline in in-person sexual frequency and an increase in the average age of first sexual experience to 18, it also highlights high engagement with digital alternatives. Half of people aged 16 to 24 reported sending or receiving sexual images on their phones in the past year, and viewing pornography remained common, particularly among young men.\n\nResearchers and experts emphasize that the reasons behind these shifting behaviors are multifaceted and cannot be attributed to a single cause. Potential contributing factors cited include changes in social habits, such as decreased alcohol consumption and less physical socializing, as well as young people living with their parents for longer periods. Additionally, researchers noted that rising rates of mental health conditions, the impact of the Covid-19 pandemic, and more open discussions surrounding consent and personal boundaries may empower individuals to be more selective about when and if they choose to have sex.",
+   "key_facts": [
+    "Adults under 45 in Britain now have sex an average of twice a month, down from four times a month in 1990.",
+    "A third of young people under 25 have never had sex, an increase from about a fifth in the previous study 12 years prior.",
+    "The average age at which young people first have sex rose to 18, up from 16 in 2010.",
+    "Half of individuals aged 16 to 24 reported sending or receiving sexual images on their phones in the past year.",
+    "The Natsal-4 research gathered data from about 6,700 randomly selected participants across England, Scotland, and Wales between September 2022 and January 2024."
+   ],
+   "case_for": [
+    {
+     "point": "More open discussions around consent and changing social norms may allow young people, particularly women, to feel more empowered to wait or decline unwanted encounters rather than conforming to past pressures.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Researchers suggest that waiting longer to have sex indicates a shift away from old peer pressures or social competition regarding sexual milestones.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Some individuals report experiencing negative psychological effects, such as ongoing upset regarding past sexual experiences among women, and feelings of shame about sexual thoughts among men.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Broader societal concerns include potential contributors to the decline like poor mental health, lack of support for families, and reduced physical socialization among youth.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "differ": "The sources generally align in their reporting of the Natsal study findings, though The Guardian includes additional context regarding the findings being published in the Lancet and mentions external academic commentary on video gaming and changing gender roles, whereas BBC News places more direct focus on the intersection of declining physical sex with rising rates of pornography viewing and sexting.",
+   "background": [
+    {
+     "title": "National Survey of Sexual Attitudes and Lifestyles",
+     "url": "https://en.wikipedia.org/w/index.php?search=National+Survey+of+Sexual+Attitudes+and+Lifestyles"
+    },
+    {
+     "title": "Human sexual behavior",
+     "url": "https://en.wikipedia.org/w/index.php?search=Human+sexual+behavior"
+    },
+    {
+     "title": "Pornography consumption",
+     "url": "https://en.wikipedia.org/w/index.php?search=Pornography+consumption"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+     "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "‘Not about notches on bedpost’: people in Great Britain having less sex – especially young adults",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/24/people-having-less-sex-young-people-survey-great-britain"
+    }
+   ]
+  },
+  {
+   "id": "990132c7",
+   "category": "Environment",
+   "headline": "U.S. Army Set to Detonate Dangerous Explosives Cache in Iowa",
+   "summary": "The U.S. Army is scheduled to proceed with a controlled detonation of 68 barrels of unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. The operation, set for Wednesday morning, follows a series of delays caused by public outcry, environmental lawsuits, and political wrangling involving Donald Trump and Iowa officials. Officials state that the controlled explosion is necessary because the degrading materials have become dangerously unstable and no viable alternative disposal method could be found.\n\nThe planned detonation has raised significant concerns regarding public health and safety, as prediction models indicate a potential toxic lead plume could travel up to a 100-mile radius. Authorities have recommended evacuations for residents within five miles and advised those within a 20-mile radius to stay indoors with windows closed for 24 to 48 hours. The timing—scheduled just days before Thanksgiving—has created additional logistical challenges and frustration for communities across Iowa, Illinois, and Missouri, impacting holiday travel, schools, and local businesses.\n\nLocal residents and neighboring communities have expressed confusion and frustration over short notice and shifting guidance regarding toxin mitigation. While Middletown residents were informed during a public meeting a month prior, surrounding communities stated they were only briefed shortly before the initial planned date. Retailers have reported high demand for emergency supplies such as water storage containers, tarps, and leaf-blowers as residents prepare for potential contamination.",
+   "key_facts": [
+    "The U.S. Army is scheduled to detonate 68 barrels of lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa.",
+    "The controlled explosion is set for Wednesday at 10 am EST following multiple delays.",
+    "Officials report the material became dangerously unstable and no viable alternative disposal method was found.",
+    "The detonation risks releasing a toxic lead plume spanning up to a 100-mile radius.",
+    "Residents within five miles are encouraged to evacuate, while those within 20 miles are advised to stay indoors for 24 to 48 hours."
+   ],
+   "case_for": [
+    {
+     "point": "Expert consensus supports a controlled, mitigated detonation as vastly preferable to the risk of an uncontrolled, spontaneous explosion of the degrading lead azide.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The operation risks releasing toxic lead dust and chemicals across a 100-mile radius, threatening public health, homes, and farmland.",
+     "sources": [
+      1,
+      2,
+      4,
+      5
+     ]
+    },
+    {
+     "point": "Short warning times, shifting schedules, and conflicting guidance have left local residents, schools, and businesses confused and frustrated during a major travel holiday.",
+     "sources": [
+      1,
+      3
+     ]
+    }
+   ],
+   "differ": "The Guardian provides extensive detail on local impacts, public confusion, and political background, whereas the New York Times headlines focus on the immediate schedule, freezing weather risks, and residents' helplessness.",
+   "background": [
+    {
+     "title": "Iowa Army Ammunition Plant",
+     "url": "https://en.wikipedia.org/w/index.php?search=Iowa+Army+Ammunition+Plant"
+    },
+    {
+     "title": "Lead azide",
+     "url": "https://en.wikipedia.org/w/index.php?search=Lead+azide"
+    },
+    {
+     "title": "Environmental litigation",
+     "url": "https://en.wikipedia.org/w/index.php?search=Environmental+litigation"
+    }
+   ],
+   "related": [
+    {
+     "id": "dca46d1f",
+     "date": "2026-11-21",
+     "headline": "US Army Postpones Plan to Detonate Lead-Laced Munitions in Iowa"
+    },
+    {
+     "id": "c1d2ecdf",
+     "date": "2026-11-24",
+     "headline": "Army Cleared to Detonate Dangerous Explosives in Iowa"
+    },
+    {
+     "id": "373ebc3e",
+     "date": "2026-11-20",
+     "headline": "US Army Postpones Plan to Detonate Toxic Ammunition in Iowa"
+    },
+    {
+     "id": "cfc59be7",
+     "date": "2026-11-23",
+     "headline": "Army Plans Controlled Detonation of Explosives in Iowa After Declining Alternative Disposal Method"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
+     "url": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+    },
+    {
+     "name": "The New York Times",
+     "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+     "url": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Iowa’s Toxic Explosion",
+     "url": "https://www.nytimes.com/2026/11/24/climate/iowas-toxic-explosion.html"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Army Will Detonate Ammunition Cache in Iowa on Wednesday",
+     "url": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html"
+    },
+    {
+     "name": "The New York Times",
+     "title": "What to Know About the Planned Explosion in Middletown, Iowa",
+     "url": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html"
+    }
+   ]
+  },
+  {
+   "id": "72d8cd1c",
+   "category": "Environment",
+   "headline": "COP31 Climate Summit Closes Following Collapse of Antalya Pact",
+   "summary": "The 31st UN climate summit (COP31) in Antalya, Turkey, concluded after overrunning by nearly 50 hours, making it the longest COP in history. The summit ended in high drama and deep divisions as countries failed to reach a consensus on the overarching \"Antalya pact\" proposed by co-hosts Turkey and Australia. The breakdown occurred in the final hours when the EU, the UK, and several climate-vulnerable nations rejected the text, leaving the keystone document dead in the water.\n\nThe collapsed pact touched on several major areas, including acknowledgment of the inevitable breach of the 2015 Paris agreement's 1.5C global heating limit. While vulnerable low-lying nations sought stronger language to keep the 1.5C goal alive, some felt the proposed text did not go far enough. The pact also aimed to incorporate a voluntary \"35 by 35\" electrification pledge—supported by over 90 countries—backed by Australian climate minister Chris Bowen to increase global electricity consumption share to 35 percent by 2035.\n\nDespite the failure of the overarching pact and missed opportunities regarding fossil fuel transitions and ocean measures, the summit did yield some outcomes. Participants reached an agreement on the adaptation fund and announced a series of measures within the \"action agenda\" concerning food, forests, oceans, and nature. The difficulties at the summit have subsequently triggered calls for urgent reform of UN climate summits.",
+   "key_facts": [
+    "COP31 concluded in Antalya, Turkey, running nearly 50 hours past its scheduled close to become the longest COP in history.",
+    "The summit's central \"Antalya pact\" collapsed in the final hours after failing to achieve consensus among more than 190 countries.",
+    "The EU, the UK, and several climate-vulnerable nations rejected the proposed pact.",
+    "Co-hosts Turkey and Australia promoted a voluntary \"35 by 35\" electrification goal that attracted support from over 90 countries.",
+    "Delegates successfully reached an agreement on the adaptation fund and announced various measures within the action agenda."
+   ],
+   "case_for": [
+    {
+     "point": "Supporters and co-hosts pushed for voluntary initiatives like the \"35 by 35\" electrification pledge, which secured backing from over 90 countries to advance clean energy and efficiency.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Delegates achieved tangible progress in other areas, successfully securing an agreement on the adaptation fund and announcing a raft of new steps under the action agenda.",
+     "sources": [
+      3
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Low-lying nations argued that the proposed text regarding the 1.5C temperature limit was not strong enough to properly address climate vulnerabilities.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "The EU, UK, and vulnerable nations ultimately rejected the Antalya pact over disagreements, leading to missed opportunities on fossil fuel transitions and ocean measures, and prompting calls for UN summit reform.",
+     "sources": [
+      1,
+      3
+     ]
+    }
+   ],
+   "differ": "The Guardian focused heavily on the specific policy details and missed opportunities within the collapsed Antalya pact—such as 1.5C targets and electrification goals—alongside the emotional atmosphere of the negotiations. Carbon Brief emphasized structural outcomes, noting both the failure of the overarching pact and specific positive steps like the agreement on the adaptation fund and action agenda announcements.",
+   "background": [
+    {
+     "title": "Paris Agreement",
+     "url": "https://en.wikipedia.org/w/index.php?search=Paris+Agreement"
+    },
+    {
+     "title": "Adaptation Fund",
+     "url": "https://en.wikipedia.org/w/index.php?search=Adaptation+Fund"
+    },
+    {
+     "title": "Fossil fuel phase-out",
+     "url": "https://en.wikipedia.org/w/index.php?search=Fossil+fuel+phase-out"
+    }
+   ],
+   "related": [
+    {
+     "id": "6e903d16",
+     "date": "2026-11-21",
+     "headline": "COP31 Climate Talks Reach Deadlock Over Fossil Fuels and IPCC Timelines"
+    },
+    {
+     "id": "b3fdd2c5",
+     "date": "2026-11-23",
+     "headline": "UN COP31 Climate Talks End Without Deal Amid Deep Divisions"
+    },
+    {
+     "id": "6b2ff85d",
+     "date": "2026-11-10",
+     "headline": "COP31 Climate Summit Opens in Turkey Amid Projections of a Slight Drop in Fossil Fuel Emissions"
+    },
+    {
+     "id": "5ffea38e",
+     "date": "2026-11-19",
+     "headline": "COP31 Climate Summit Faces Delays and Urgent Deadlines Amid Science Row"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Oceans, fossil fuels and keeping 1.5 alive: the missed opportunities at Cop31",
+     "url": "https://www.theguardian.com/environment/2026/nov/24/missed-opportunities-cop31-oceans-fossil-fuels"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Why are people captivated by this photo of Australia’s climate change minister scowling at Cop31?",
+     "url": "https://www.theguardian.com/culture/2026/nov/25/chris-bowen-cop31-deal-failure-photograph"
+    },
+    {
+     "name": "Carbon Brief",
+     "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
+     "url": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes"
+    },
+    {
+     "name": "Carbon Brief",
+     "title": "COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya",
+     "url": "https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya"
+    }
+   ]
+  },
+  {
+   "id": "695696d0",
+   "category": "Sports",
+   "headline": "Gukesh and Sindarov Draw Opening Game of World Chess Championship",
+   "summary": "Defending champion D. Gukesh and challenger Javokhir Sindarov drew the opening game of the World Chess Championship match in Geneva after 38 moves. Playing with the black pieces, Gukesh opted for the Berlin Defense of the Ruy Lopez opening. The game saw early queen exchanges on the eighth move and a competitive struggle, particularly over the clock.\n\nDuring the match, Gukesh fell significantly behind on time, spending nearly an hour combined on his 13th and 17th moves. At one stage, the defending champion had only minutes remaining to make numerous moves while Sindarov enjoyed an advantage of more than 50 minutes on the clock. Despite the time pressure and Gukesh winning and later giving back a pawn, the position remained largely equal. Gukesh advanced his king to safety and successfully defended against the challenger's pressure.\n\nSindarov attempted to push for an advantage leveraging his time cushion, but acknowledged that Gukesh defended very well. The game eventually reached a same-colored-bishop ending and ended in a draw by repetition after 3 hours and 40 minutes. Both players are 20 years old, marking the youngest matchup in the 140-year history of the title match.",
+   "key_facts": [
+    "D. Gukesh and Javokhir Sindarov drew the opening game of the World Chess Championship in Geneva after 38 moves.",
+    "Gukesh played with the black pieces and utilized the Berlin Defense.",
+    "The defending champion faced severe time pressure during the match, at one point having only minutes left to complete multiple moves while Sindarov held a large time advantage.",
+    "Both competitors are 20 years old, making this the youngest matchup in the 140-year history of the world title.",
+    "The game concluded in a draw via repetition after 3 hours and 40 minutes of play."
+   ],
+   "case_for": [
+    {
+     "point": "Gukesh demonstrated strong defensive resilience and composure, successfully navigating major time trouble to secure a draw with the black pieces.",
+     "sources": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "point": "Sindarov played an enterprising game, effectively utilizing his time advantage to pressure the defending champion and keep the match interesting.",
+     "sources": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Gukesh fell into a deep time deficit early in the game, forcing him to spend excessive time on specific moves.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Sindarov ultimately missed or was unable to convert potential winning pressure into an advantage as Gukesh successfully neutralized threats.",
+     "sources": [
+      1,
+      3
+     ]
+    }
+   ],
+   "differ": "The Hindu provided the full move-by-move score and detailed context on past historical matches like Viswanathan Anand versus Fritz, whereas The Guardian focused more closely on Gukesh's recent career form and ranking struggles.",
+   "background": [
+    {
+     "title": "World Chess Championship",
+     "url": "https://en.wikipedia.org/w/index.php?search=World+Chess+Championship"
+    },
+    {
+     "title": "Berlin Defence",
+     "url": "https://en.wikipedia.org/w/index.php?search=Berlin+Defence"
+    },
+    {
+     "title": "D. Gukesh",
+     "url": "https://en.wikipedia.org/w/index.php?search=D.+Gukesh"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Gukesh escapes time crisis to draw world chess championship opener with Sindarov",
+     "url": "https://www.theguardian.com/sport/2026/nov/24/gukesh-sindarov-world-chess-championship-2026-game-1-draw"
+    },
+    {
+     "name": "The Hindu",
+     "title": "World Chess Championship: I thought I was always under control in the game, says Gukesh",
+     "url": "https://www.thehindu.com/sport/world-chess-championship-i-thought-i-was-always-under-control-in-the-game-says-gukesh/article71741625.ece"
+    },
+    {
+     "name": "The Hindu",
+     "title": "World chess championship: Gritty Gukesh weathers time pressure, holds Sindarov",
+     "url": "https://www.thehindu.com/sport/world-chess-championship-gritty-gukesh-weathers-time-pressure-holds-sindarov/article71739969.ece"
+    }
+   ]
+  },
+  {
+   "id": "0fb34401",
+   "category": "Sports",
+   "headline": "Manchester City's Struggles Continue Following Champions League Draw Against Napoli",
+   "summary": "Manchester City's recent dip in form continued after they were held to a 2-2 Champions League draw by Napoli at a flat Etihad Stadium. Despite controlling 62.7% possession and dominating passing statistics in the final third, Enzo Maresca's side produced a pedestrian and predictable performance that frustrated supporters. Napoli twice took the lead through goals from Rasmus Hojlund and Noa Lang, exploiting City's ongoing defensive vulnerabilities.\n\nManager Enzo Maresca defended his team's resilience, noting that avoiding defeat when unable to win is crucial and emphasizing that the squad fought until the final whistle. However, star striker Erling Haaland admitted the performance was \"not good enough\" and acknowledged that doubts grow when results slip. Haaland has now gone three club games without scoring, and the team has won only one of their past seven matches in all competitions inside 90 minutes.\n\nThe draw against an injury-depleted eighth-place Serie A side compounds a difficult autumn period for Manchester City, who have now conceded in 10 successive matches. Former players and analysts criticized the slow tempo of City's build-up play, while fans also directed frustrations toward officiating at the end of the match. City now face an upcoming fixture against Arsenal as they look to rediscover their early-season momentum.",
+   "key_facts": [
+    "Manchester City drew 2-2 with Napoli in a Champions League fixture at the Etihad Stadium.",
+    "Rayan Cherki scored a late equalizer for Manchester City to salvage a draw.",
+    "Napoli took the lead twice through goals from Rasmus Hojlund and Noa Lang.",
+    "Manchester City have now conceded in 10 successive games in all competitions.",
+    "Manager Enzo Maresca's side has won only one of their past seven matches within 90 minutes."
+   ],
+   "case_for": [
+    {
+     "point": "Manager Enzo Maresca emphasized the importance of securing a point and avoiding a loss when unable to win, highlighting that the team fought until the end.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Rayan Cherki showed late magic and persistence, scoring a fine angled equalizer to rescue a draw for the hosts.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The team displayed a dull, pedestrian, and predictable style of play that drew moans and groans from the home supporters.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Defensive frailties continued as City conceded the opening goal for the seventh time in a ten-game run of conceding goals.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "differ": "BBC Sport placed greater statistical focus on City's possession and passing dominance alongside pundit analysis of their slow tempo, while The Guardian placed more emphasis on the stadium atmosphere, the return of Kevin De Bruyne, and broader questions surrounding the club's autumn difficulties.",
+   "background": [
+    {
+     "title": "Enzo Maresca",
+     "url": "https://en.wikipedia.org/w/index.php?search=Enzo+Maresca"
+    },
+    {
+     "title": "UEFA Champions League",
+     "url": "https://en.wikipedia.org/w/index.php?search=UEFA+Champions+League"
+    },
+    {
+     "title": "Manchester City F.C.",
+     "url": "https://en.wikipedia.org/w/index.php?search=Manchester+City+F.C."
+    }
+   ],
+   "related": [
+    {
+     "id": "4ffb5c93",
+     "date": "2026-11-08",
+     "headline": "Nottingham Forest Defeats Manchester City as Arsenal Extends Premier League Lead"
+    },
+    {
+     "id": "39e75d1d",
+     "date": "2026-11-01",
+     "headline": "Chelsea and Brighton Secure Victories Against Manchester United and Manchester City"
+    },
+    {
+     "id": "acb5e09b",
+     "date": "2026-10-25",
+     "headline": "Aston Villa Ends Manchester City's Perfect Premier League Start with 2-1 Win"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC Sport",
+     "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
+     "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report"
+    }
+   ]
+  },
+  {
+   "id": "af24d336",
+   "category": "Entertainment",
+   "headline": "Blade Runner 2099 Television Series Explores Themes of Artificial Intelligence and Humanity",
+   "summary": "The sci-fi television series Blade Runner 2099 expands the universe of the original 1982 film and its 2017 sequel, Blade Runner 2049, into a television format. Set 80 years after the original movie, the series depicts a dystopian Los Angeles where replicants have taken over, reversing the traditional dynamic by having replicant blade runners hunt down disobedient humans in a world where the capture and storage of human memories is illegal.\n\nThe show stars Hunter Schafer as Cora, a fugitive human posing as a replicant, who is forced to team up with a veteran blade runner named Olwen, played by Michelle Yeoh. Together, they embark on a quest to track down Olwen's former colleague and lover Marek, who has gone rogue alongside a group of replicants, in an effort to find an artifact that could save humanity.\n\nWhile the series engages with timely topics such as artificial consciousness and the threats posed by artificial intelligence, showrunner Silka Luisa emphasizes that the narrative extends beyond AI. It addresses broader existential concerns, including corporate greed, environmental damage, system collapse, and what the future holds for young people inheriting a changing world. Production for the series utilized analog mechanics and practical sets built in a Prague studio rather than relying exclusively on green screens.\n\nReviewers have praised the series for its visual aesthetics, capturing a moody atmosphere filled with neon lighting, retro cathode-ray screens, and a soundtrack mixing synths and saxophone. The narrative is described as a fear-of-discovery thriller and a political allegory that maintains the philosophical question central to the franchise: what it means to be human.",
+   "key_facts": [
+    "Blade Runner 2099 is set 80 years after the original 1982 film directed by Ridley Scott.",
+    "The series stars Hunter Schafer as Cora, a human fugitive, and Michelle Yeoh as Olwen, a replicant blade runner.",
+    "In this installment, replicants have taken over Los Angeles and hunt down humans, while storing human memories is illegal.",
+    "Showrunner Silka Luisa notes the series addresses broader themes than just AI, including system collapse and environmental damage.",
+    "Production designers utilized analog mechanics and practical studio sets in Prague instead of green screens."
+   ],
+   "case_for": [
+    {
+     "point": "The series successfully maintains the atmospheric mood, visual beauty, and philosophical depth of the original films.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "It offers timely and relevant explorations of artificial intelligence, existential threats, and youth inheriting a collapsing system.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "The production design favors practical analog mechanics and physical sets built in a studio over green screens.",
+     "sources": [
+      3
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The storyline prioritizes allusive moods and visual vibes over building a completely logical, fully detailed world.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "differ": "The BBC focuses more on interviews with the cast and showrunner regarding the thematic relevance of AI and generational anxiety, whereas The Guardian provides a detailed review focusing on the show's visual aesthetics, plot dynamics, and atmosphere. The New York Times briefly highlights the practical studio production methods used to create the setting.",
+   "background": [
+    {
+     "title": "Blade Runner",
+     "url": "https://en.wikipedia.org/w/index.php?search=Blade+Runner"
+    },
+    {
+     "title": "Blade Runner 2049",
+     "url": "https://en.wikipedia.org/w/index.php?search=Blade+Runner+2049"
+    },
+    {
+     "title": "Artificial intelligence in fiction",
+     "url": "https://en.wikipedia.org/w/index.php?search=Artificial+intelligence+in+fiction"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+     "url": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Blade Runner 2099 review – every scene of this TV version is packed with terrifying visual beauty",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/blade-runner-2099-review-tv-version-terrifying-visual-beauty"
+    },
+    {
+     "name": "The New York Times",
+     "title": "In ‘Blade Runner 2099,’ the Future Is Hot and Sticky",
+     "url": "https://www.nytimes.com/2026/11/25/arts/in-blade-runner-2099-the-future-is-hot-and-sticky.html"
+    }
+   ]
+  },
+  {
+   "id": "86821c42",
+   "category": "Entertainment",
+   "headline": "Disney's animated film Hexed receives mixed reviews",
+   "summary": "Disney has released its new animated holiday film, 'Hexed', which tells a mother-daughter adventure tale centered around a witchy new princess. The story takes place in a universe where witches were removed to a magic-filled realm and live under the control of Queen Celeste, voiced by Jodie Foster. A powerful young witch named Billie, voiced by Hailee Steinfeld, discovers her abilities as the narrative unfolds.\n\nThe film has prompted varied critical reactions upon its release. The Guardian offered a sharp critique, describing the project as a disappointing and calculated effort that relies heavily on corporate branding, tropes of magic, and references to past Disney works rather than forging innovative territory. Conversely, The New York Times provided a more concise perspective, characterizing the mother-daughter adventure as a witchy new entry that could benefit from some decluttering.",
+   "key_facts": [
+    "Disney's animated film 'Hexed' features a mother-daughter adventure tale with a new witchy princess.",
+    "The voice cast includes Jodie Foster as Queen Celeste and Hailee Steinfeld as a young witch named Billie.",
+    "The plot involves witches living under the control of Queen Celeste in a magic-filled realm after being Salem trialled away.",
+    "The Guardian criticized the film as a calculated, corporate, and uninspired production tied to Q4 marketing aims.",
+    "The New York Times noted that the film is a mother-daughter adventure tale that could use some decluttering."
+   ],
+   "case_for": [
+    {
+     "point": "Presents a mother-daughter adventure tale introducing a new witchy princess.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Features notable voice talent including Jodie Foster and Hailee Steinfeld.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Criticized as a soulless, calculated, and corporate project driven by marketing aims rather than fresh ideas.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Described as a film that could use some decluttering.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "differ": "The Guardian provides an extensive and harshly critical review focusing on Disney's broader creative struggles and commercial motives, whereas The New York Times offers a brief assessment noting that the adventure tale could use some decluttering.",
+   "background": [
+    {
+     "title": "Walt Disney Animation Studios",
+     "url": "https://en.wikipedia.org/w/index.php?search=Walt+Disney+Animation+Studios"
+    },
+    {
+     "title": "Jodie Foster",
+     "url": "https://en.wikipedia.org/w/index.php?search=Jodie+Foster"
+    },
+    {
+     "title": "Hailee Steinfeld",
+     "url": "https://en.wikipedia.org/w/index.php?search=Hailee+Steinfeld"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Hexed review – Disney’s witchy caper is a wicked disappointment",
+     "url": "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney"
+    },
+    {
+     "name": "The New York Times",
+     "title": "‘Hexed’ Review: Disney’s Witchy New Princess",
+     "url": "https://www.nytimes.com/2026/11/25/movies/hexed-review-disney.html"
+    }
+   ]
+  }
+ ],
+ "quick": [
+  {
+   "category": "Politics",
+   "headline": "Justice Department Apologizes for False Statement in Ilhan Omar Case",
+   "blurb": "The Justice Department apologized for making a false statement to a judge regarding an investigation and unsealed records concerning Representative Ilhan Omar's home search.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "US court unseals heavily redacted records on Ilhan Omar home search",
+     "url": "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
+     "url": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html"
+    }
+   ]
+  },
+  {
+   "category": "Politics",
+   "headline": "UK Government Proposes Major Shake-Up to Personal Independence Payment Benefits",
+   "blurb": "A review overseen by social security minister Stephen Timms recommends a new system and tests for disability benefits, which critics warn could lead to hundreds of thousands losing support or a higher welfare bill.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
+     "url": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – as it happened",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates"
+    },
+    {
+     "name": "The Guardian",
+     "title": "What are the proposals for changing personal independence payment?",
+     "url": "https://www.theguardian.com/world/2026/nov/24/what-proposals-changing-personal-independence-payment"
+    },
+    {
+     "name": "The Guardian",
+     "title": "The Guardian view on disability benefits: Timms’s radical review is rooted in experience | Editorial",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-disability-benefits-timmss-radical-review-is-rooted-in-experience"
+    }
+   ]
+  },
+  {
+   "category": "Politics",
+   "headline": "Independent Review Finds Metropolitan Police Still Systemically Racist and Misogynist",
+   "blurb": "An independent review concluded that London's Metropolitan Police force still suffers from fundamental systemic issues regarding racism and misogyny three years after a previous damning report.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Metropolitan police still institutionally racist and misogynist, says report",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "London Stock Exchange faces listing departures",
+   "blurb": "Industry leaders have urged the UK to stem the flood of firms leaving the London Stock Exchange following major corporate exits to New York.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
+     "url": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Compass’s logic for US listing is flimsy but UK ministers need to wake up to Footsie flight risk | Nils Pratley",
+     "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "US food bank demand exceeds pandemic levels",
+   "blurb": "A combination of high costs and restrictions to federal aid have led to soaring demand at US food banks surpassing pandemic levels.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "title": "Some U.S. food banks see demand top pandemic levels",
+     "url": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "TVS Motor to invest ₹2,000 crore in Tamil Nadu",
+   "blurb": "TVS Motor has entered into a non-binding MoU with the Tamil Nadu government to invest ₹2,000 crore in the state.",
+   "sources": [
+    {
+     "name": "The Hindu BusinessLine",
+     "title": "TVS Motor to invest ₹2,000 crore in Tamil Nadu",
+     "url": "https://www.thehindubusinessline.com/companies/tvs-motor-to-invest-2000-crore-in-tamil-nadu/article71741651.ece"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "Retail companies post strong holiday season earnings",
+   "blurb": "Retail earnings reports pointed to strong results and turnaround momentum heading into the holiday season.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "title": "Retail turnarounds are taking hold just in time for the holiday season",
+     "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html"
+    },
+    {
+     "name": "CNBC",
+     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+     "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "Half of NASA's Mars fleet affected by technical issues",
+   "blurb": "Technical difficulties have knocked half of NASA's aging Mars fleet offline, including communication trouble with Perseverance.",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+     "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "Amazon Prime Air drone crashes during delivery",
+   "blurb": "An Amazon delivery drone crashed onto a residential garage after delivering shampoo, prompting an FAA probe.",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+     "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "US financial crimes bureau investigates cybersecurity incident",
+   "blurb": "The Financial Crimes Enforcement Network disclosed that it is investigating a cybersecurity incident.",
+   "sources": [
+    {
+     "name": "The Verge",
+     "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+     "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "Dozens of oil and shipping tankers targeted in cyberattacks",
+   "blurb": "Dozens of oil and chemical tankers have been hacked in recent weeks, with Iran emerging as the chief suspect.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+     "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "China Launches Shenzhou-24 Carrying Pakistan's First Astronaut",
+   "blurb": "China launched the Shenzhou-24 space mission carrying three astronauts, including former fighter pilot Muhammad Zeeshan Ali as Pakistan's first astronaut to visit the Chinese space station.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Why China has sent Pakistan's first astronaut into space",
+     "url": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Nature",
+     "title": "Pakistani astronaut to become first foreign visitor to China’s space station",
+     "url": "https://www.nature.com/articles/d41586-026-03829-y"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "Spacecraft Returns to Assess Asteroid Impact",
+   "blurb": "A spacecraft has returned to study an asteroid four years after it was deliberately knocked off course by a colliding spacecraft.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "New Flood Forecasting Method Based on Tidal Heights",
+   "blurb": "Researchers have developed a new way of measuring tides by analyzing differences in tidal height across beaches to make flood forecasts more accurate.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "How a new way of measuring tides could make flood forecasts more accurate",
+     "url": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "Dolphins with Active Social Lives Live Longer",
+   "blurb": "Decades of data collected at Shark Bay in Western Australia reveals that dolphins with active social lives and big friendship groups live longer.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
+     "url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "American Chestnut Trees Reintroduced After Decades",
+   "blurb": "New techniques are helping the American chestnut return to Appalachian forests after the trees were functionally extinct in the US for nearly a century.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
+     "url": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe"
+    }
+   ]
+  },
+  {
+   "category": "Health",
+   "headline": "Alaskan hospitals adopt artificial intelligence to improve stroke care",
+   "blurb": "A network of hospitals in Alaska is utilizing artificial intelligence tools to triage and improve care for stroke patients.",
+   "sources": [
+    {
+     "name": "STAT",
+     "title": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
+     "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/?utm_campaign=rss"
+    },
+    {
+     "name": "STAT",
+     "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+     "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Health",
+   "headline": "Record high summer heat deaths in England",
+   "blurb": "Summer heat deaths in England reached a record high of 5,258 between May and September.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
+     "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england"
+    }
+   ]
+  },
+  {
+   "category": "Health",
+   "headline": "Gaza issues meningitis epidemic alert",
+   "blurb": "The health ministry in Gaza issued a meningitis epidemic alert after recording 272 new infections in October.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+     "url": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert"
+    }
+   ]
+  },
+  {
+   "category": "Environment",
+   "headline": "California and Oregon Coastlines Threatened by Extreme King Tides",
+   "blurb": "Low-lying coastal areas experienced severe flooding as high king tides hit the West Coast, prompting warnings and narrow escapes from hazardous conditions.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Moment dog and owner get swept up by king tide on Oregon beach – video",
+     "url": "https://www.theguardian.com/us-news/video/2026/nov/25/moment-dog-and-owner-get-swept-up-by-king-tide-on-oregon-beach-video"
+    },
+    {
+     "name": "The New York Times",
+     "title": "California King Tides Threaten ‘Extreme’ Coastal Flooding",
+     "url": "https://www.nytimes.com/2026/11/24/weather/california-storm-king-tides-sf-la.html"
+    }
+   ]
+  },
+  {
+   "category": "Environment",
+   "headline": "Severe Drought Dries Up Rivers in Brazil's Amazon",
+   "blurb": "An El Niño-fueled drought has severely lowered river levels in Brazil's northern Amazon region, cutting off local communities.",
+   "sources": [
+    {
+     "name": "Mongabay",
+     "title": "Severe drought dries up rivers, cuts off communities in Brazil’s Amazon",
+     "url": "https://news.mongabay.com/short-article/2026/11/severe-drought-dries-up-rivers-cuts-off-communities-in-brazils-amazon/"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "Usman Khawaja addresses Cummins and Sandpapergate fallout",
+   "blurb": "Usman Khawaja expressed disappointment regarding a personal attack and revealed details about text messages sent to Cricket Australia.",
+   "sources": [
+    {
+     "name": "BBC Sport",
+     "title": "Khawaja 'disappointed' by Cummins' personal attack",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate",
+     "url": "https://www.theguardian.com/sport/2026/nov/25/usman-khawaja-sandpapergate-peace-deal-text-cricket-australia-ceo"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Sandpapergate: the six burning questions still to be answered | Martin Pegan",
+     "url": "https://www.theguardian.com/sport/2026/nov/25/sandpapergate-six-burning-questions-unanswered"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "Arsenal held by Dortmund as standards slip",
+   "blurb": "Arsenal manager Mikel Arteta stated his team needs more luck after they were held to a draw by Dortmund.",
+   "sources": [
+    {
+     "name": "BBC Sport",
+     "title": "Arteta says Arsenal need more luck to kill off games",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
+     "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "Vaibhav Sooryavanshi breaks records with double century",
+   "blurb": "Teen star Vaibhav Sooryavanshi smashed a record-breaking 204 runs off 53 balls with 28 sixes for India A against UAE.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Teen star Vaibhav Sooryavanshi blitzes through record books with 53-ball 204",
+     "url": "https://www.theguardian.com/sport/2026/nov/24/teen-star-sooryavanshi-blitzes-through-record-books-with-53-ball-204"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Railways’ collective struggles leave Ravi Singh’s efforts in shadows",
+     "url": "https://www.thehindu.com/sport/cricket/railways-collective-struggles-leave-ravi-singhs-efforts-in-shadows/article71741770.ece"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Asia Cup Rising Stars: Sooryavanshi in focus as India ‘A’ eyes collective show for a berth in final",
+     "url": "https://www.thehindu.com/sport/cricket/asia-cup-rising-stars-semifinal-india-a-vs-sri-lanka-a/article71741329.ece"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "Jannik Sinner's Australian Open appearance in doubt",
+   "blurb": "Wimbledon champion Jannik Sinner faces uncertainty regarding his Australian Open participation following knee surgery.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Jannik Sinner’s Australian Open appearance in doubt after knee surgery",
+     "url": "https://www.theguardian.com/sport/2026/nov/24/jannik-sinners-australian-open-in-great-doubt-after-he-has-to-have-knee-surgery"
+    }
+   ]
+  },
+  {
+   "category": "Entertainment",
+   "headline": "Chris Pratt's family film Way of the Warrior Kid reviewed",
+   "blurb": "Critics have shared mixed reviews for Chris Pratt's new family film adaptation Way of the Warrior Kid.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Way of the Warrior Kid review - Chris Pratt’s family film is as subtle as a military recruitment video",
+     "url": "https://www.theguardian.com/film/2026/nov/25/way-of-the-warrior-kid-review-chris-pratt"
+    },
+    {
+     "name": "The New York Times",
+     "title": "‘Way of the Warrior Kid’ Review: Dispensing Martial Wisdom",
+     "url": "https://www.nytimes.com/2026/11/25/movies/way-of-the-warrior-kid-review.html"
+    }
+   ]
+  },
+  {
+   "category": "Entertainment",
+   "headline": "New corporate biopic Hershey receives mixed reviews",
+   "blurb": "The new candy origin biopic Hershey has received lukewarm reviews from critics following its premiere.",
+   "sources": [
+    {
+     "name": "The New York Times",
+     "title": "‘Hershey’ Review: A Vanilla Movie About Chocolate",
+     "url": "https://www.nytimes.com/2026/11/25/movies/hershey-review.html"
+    },
+    {
+     "name": "Variety",
+     "title": "‘Hershey’ Review: In a Sugary Sweet Biopic, Finn Wittrock Plays the Candy Man Who Turned Chocolate Into an American Empire",
+     "url": "https://variety.com/2026/film/reviews/hershey-review-finn-wittrock-1236957567/"
+    }
+   ]
+  },
+  {
+   "category": "Entertainment",
+   "headline": "Veteran Nollywood actor Pete Edochie dies aged 79",
+   "blurb": "Veteran Nigerian actor Pete Edochie has passed away at the age of 79.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  }
+ ]
+}
