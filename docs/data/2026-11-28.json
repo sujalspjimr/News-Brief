@@ -1,0 +1,2294 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "14:41 IST",
+ "stories": [
+  {
+   "id": "498a9b7a",
+   "category": "World",
+   "headline": "Spanish Voters Go to Polls in High-Stakes General Election",
+   "summary": "Spain's main party leaders have made their final pitches to voters ahead of Sunday's general election, which could mark a significant political shift for the country. Nearly 39 million eligible voters are casting ballots in an election where opinion polls have pointed to a close finish and a potential change in government, putting an end to Socialist Prime Minister Pedro Sánchez's eight years of leadership. Sánchez has urged progressive voters to turn out and prevent the country from moving backward, warning of a potential right-wing coalition that could reverse social progress. Meanwhile, conservative People's Party (PP) leader Alberto Núñez Feijóo has campaigned on promises of good governance, decency, and truth, dismissing the incumbent's warnings as a campaign of fear.\n\nKey issues dominating the run-in include the cost of living, housing and rental prices, immigration, national debt, and corruption. The conservative PP has held a narrow lead in the polls, though forming a government could require the support of the anti-immigration far-right Vox party, led by Santiago Abascal. If successful, Vox could enter national government for the first time since the end of the Franco dictatorship in 1975. Alternatively, analysts note there remains a possibility of a hung parliament if neither the right-wing coalition nor the left bloc secures a clear majority.\n\nInternationally, the election is viewed as a key test of Europe's broader political shift toward the right, preceding upcoming elections on the continent. Sánchez has positioned himself as a standard-bearer for Europeans frustrated by the Trump administration, while Feijóo has indicated a desire to maintain good relations with US President Donald Trump.",
+   "key_facts": [
+    "Nearly 39 million Spanish voters are eligible to cast ballots in the general election.",
+    "Opinion polls heading into the vote showed the conservative People's Party (PP) narrowly ahead, challenging incumbent Socialist Prime Minister Pedro Sánchez.",
+    "A potential right-wing government could involve support from the far-right Vox party, which would mark its first time in national government since 1975.",
+    "Key campaign issues include housing prices, the cost of living, immigration, corruption, and the national debt."
+   ],
+   "case_for": [
+    {
+     "point": "Supporters of Prime Minister Pedro Sánchez argue his leftist government has successfully boosted the economy relative to European Union peers, increased the minimum wage, and raised pensions in line with inflation.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Supporters of PP leader Alberto Núñez Feijóo argue for a new political era focused on good governance, management experience, and addressing key issues like public debt and border management.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Supporters of the Vox party argue for stricter immigration controls, prioritizing Spanish citizens for welfare, and addressing national security and border concerns.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Critics of Prime Minister Pedro Sánchez point to voter frustration over soaring costs of living, high rental prices that prevent young people from leaving home, and inadequate control over migration.",
+     "sources": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "point": "Critics of a potential right-wing coalition warn that incorporating the far-right Vox party could reverse decades of social progress and threaten public services and women's rights.",
+     "sources": [
+      1,
+      3
+     ]
+    }
+   ],
+   "differ": "Sources place varying degrees of emphasis on international dynamics, with some outlets highlighting Sánchez's role as a critic of the Trump administration, while others focus strictly on domestic socioeconomic concerns like housing and immigration.",
+   "background": [
+    {
+     "title": "Politics of Spain",
+     "url": "https://en.wikipedia.org/w/index.php?search=Politics+of+Spain"
+    },
+    {
+     "title": "People's Party (Spain)",
+     "url": "https://en.wikipedia.org/w/index.php?search=People%27s+Party+%28Spain%29"
+    },
+    {
+     "title": "Vox (political party)",
+     "url": "https://en.wikipedia.org/w/index.php?search=Vox+%28political+party%29"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+     "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Spain faces political shift as far right gains ground",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss"
+    },
+    {
+     "name": "DW",
+     "title": "Spain's Sanchez makes final appeal to voters before election",
+     "url": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+     "url": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+     "url": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html"
+    },
+    {
+     "name": "FRANCE 24",
+     "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough"
+    }
+   ]
+  },
+  {
+   "id": "353ebb38",
+   "category": "World",
+   "headline": "Canada's Supreme Court Largely Upholds Quebec Ban on Religious Symbols",
+   "summary": "Canada's Supreme Court has largely upheld Quebec's controversial 2019 secularism law, known as Bill 21, which bars public sector workers such as teachers, police officers, judges, and lawyers from wearing conspicuous religious symbols like hijabs, turbans, kippahs, and crosses while on the job. In a closely watched ruling, the court found that Quebec was permitted to shield the law from most court challenges by using the 'notwithstanding clause,' a constitutional mechanism allowing governments to override certain charter rights.\n\nThe landmark decision addressed major constitutional questions surrounding the limits of provincial legislative power and minority rights. While the majority of the justices validated the core of the law, the court ruled that the legislation infringes on democratic rights by prohibiting Quebec's elected officials from wearing face coverings for religious reasons. Additionally, some dissenting justices argued that the notwithstanding clause should not authorize laws incompatible with Canada's fundamental character as a free and democratic society.\n\nSupporters of the ruling, including provincial nationalist figures, hailed the decision as a vital victory for state secularism and Quebec's historical commitment to keeping public institutions neutral. Conversely, civil liberties groups and minority advocates sharply criticized the verdict. They argued that the legislation disproportionately harms Muslim women who wear the hijab and weakens fundamental freedoms, effectively turning the Canadian Charter of Rights and Freedoms into a set of mere suggestions.\n\nPrime Minister Mark Carney stated that his government would study the ruling's implications, emphasizing the importance of respecting the rights and liberties of all citizens, including minorities. The case drew immense national attention, resulting in one of the longest hearings and highest numbers of participants in the Supreme Court's history.",
+   "key_facts": [
+    "Canada's Supreme Court largely upheld Quebec's Bill 21, a 2019 law banning public sector workers from wearing religious symbols.",
+    "The 6-1 ruling backed Quebec's use of the constitutional 'notwithstanding clause' to shield the law from most charter challenges.",
+    "The court ruled that the law does infringe on democratic rights by preventing elected officials from wearing face coverings for religious reasons.",
+    "The case involved record-breaking participation, with 51 interveners and four days of hearings.",
+    "Dissenting justices expressed concern that the law infringed on freedom of religion, expression, and equality."
+   ],
+   "case_for": [
+    {
+     "point": "Bill 21 is rooted in Quebec's legitimate and historical commitment to ensuring the secularism of the state in a free and democratic society.",
+     "sources": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "point": "Supporters and provincial nationalists hailed the ruling as a major victory validating the actions of the Quebec nation and its government.",
+     "sources": [
+      2,
+      3
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Civil liberties groups argue the law is discriminatory, disproportionately affects Muslim women wearing the hijab, and excludes them from public sector employment.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Critics contend that upholding the law weakens fundamental rights and creates a precedent where governments can use the notwithstanding clause to strip away minority rights.",
+     "sources": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "differ": "The sources generally agree on the core facts of the Supreme Court ruling, though some provide more details from specific political figures and legal scholars regarding the wider implications for Canadian constitutional law.",
+   "background": [
+    {
+     "title": "Bill 21",
+     "url": "https://en.wikipedia.org/w/index.php?search=Bill+21"
+    },
+    {
+     "title": "Notwithstanding clause",
+     "url": "https://en.wikipedia.org/w/index.php?search=Notwithstanding+clause"
+    },
+    {
+     "title": "Canadian Charter of Rights and Freedoms",
+     "url": "https://en.wikipedia.org/w/index.php?search=Canadian+Charter+of+Rights+and+Freedoms"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+     "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+     "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+    },
+    {
+     "name": "DW",
+     "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+     "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
+     "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+    }
+   ]
+  },
+  {
+   "id": "a043fff2",
+   "category": "World",
+   "headline": "Kenyan Cult Leader Convicted Over Deaths of 123 Followers",
+   "summary": "A Kenyan court has convicted doomsday cult leader Paul Mackenzie and 29 co-defendants of the manslaughter of 123 adult followers. The court found that Mackenzie systematically persuaded his devotees to fast to death in the Shakahola forest between January 2021 and September 2023 so they could meet Jesus. Prosecutors stated that children were intended to die first, followed by women and men, with Mackenzie supposed to die last. While Mackenzie and his co-defendants maintained that the victims fasted of their own free will, witnesses testified that followers were manipulated, and those who opposed his teachings were subjected to violence.\n\nThis ruling marks the latest in a series of legal actions against the self-styled pastor, who was arrested in 2023 after authorities discovered more than 400 bodies in shallow graves across the coastal forest. Earlier in November 2026, Mackenzie was sentenced to 200 years in prison for the murder of 191 other victims, primarily children. In addition to the manslaughter and murder verdicts, he has faced convictions for offenses including child cruelty, radicalisation, and engaging in organized criminal activity. Following Friday's verdict, the prosecution indicated it would also appeal the acquittal of 60 other defendants, while defense lawyers stated their intention to appeal Mackenzie's manslaughter conviction after sentencing.",
+   "key_facts": [
+    "Paul Mackenzie was convicted of the manslaughter of 123 followers in Mombasa, Kenya.",
+    "The court found he ordered followers to fast to death in Shakahola forest between 2021 and 2023.",
+    "Twenty-nine co-defendants, including Mackenzie's wife, were also convicted of manslaughter.",
+    "Sixty defendants were acquitted, though prosecutors indicated they will appeal the acquittals.",
+    "Mackenzie was previously sentenced to 200 years in prison for the murder of 191 people."
+   ],
+   "case_for": [
+    {
+     "point": "The prosecution presented evidence that Mackenzie systematically manipulated followers into a suicide pact to starve to death.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Authorities and the Director of Public Prosecutions successfully pursued multiple legal charges, resulting in convictions for manslaughter, murder, and radicalisation.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The defendants argued in court that the victims chose to fast of their own free will.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Defense counsel announced plans to appeal the manslaughter conviction following sentencing.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "The sources generally agree on the core facts of the conviction, though BBC News provides more granular details regarding the prosecution's arguments and specific terrorism-related charges, while The Hindu focuses tightly on the timeline of various legal proceedings.",
+   "background": [
+    {
+     "title": "Good News International Ministries",
+     "url": "https://en.wikipedia.org/w/index.php?search=Good+News+International+Ministries"
+    },
+    {
+     "title": "Shakahola forest massacre",
+     "url": "https://en.wikipedia.org/w/index.php?search=Shakahola+forest+massacre"
+    },
+    {
+     "title": "Prevention of Terrorism Act, 2012 (Kenya)",
+     "url": "https://en.wikipedia.org/w/index.php?search=Prevention+of+Terrorism+Act%2C+2012+%28Kenya%29"
+    }
+   ],
+   "related": [
+    {
+     "id": "445904d4",
+     "date": "2026-11-07",
+     "headline": "Kenyan Doomsday Cult Leader Sentenced to 200 Years in Prison for Mass Murder"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Kenya cult leader found guilty of manslaughter of 123 followers asked to starve to meet Jesus",
+     "url": "https://www.thehindu.com/news/international/kenya-cult-leader-found-guilty-of-manslaughter-of-123-followers-asked-to-starve-to-meet-jesus/article71753625.ece"
+    }
+   ]
+  },
+  {
+   "id": "380c80f4",
+   "category": "India",
+   "headline": "Prime Minister Modi Vows to Implement Women's Reservation Amid Legislative and Delimitation Updates",
+   "summary": "Prime Minister Narendra Modi has reaffirmed his administration's commitment to implementing a 33 percent reservation for women in Parliament and state legislative assemblies. Speaking after the Union Cabinet cleared a revised legislative package—including the Constitution (132nd Amendment) Bill, 2026, and the delimitation (Second) Bill, 2026—Modi stated that his government would overcome all obstacles to secure greater political representation for women. He also criticized opposing parties, asserting they would not be able to prevent the reform.\n\nThe newly cleared package follows the failure of the previous Constitution (131st Amendment) Bill to secure a two-thirds majority in the Lok Sabha in April. The updated proposals include a uniform 50 percent increase in parliamentary seats, raising the maximum strength of the Lok Sabha to 850 and state assemblies to 650. Additionally, the seat allocations between states are proposed to remain frozen until 2051, retaining the 1971 Census as the distribution basis.\n\nReaction to the legislative push has prompted strategic discussions among opposition parties. INDIA bloc leaders convened at the residence of Congress president Mallikaljun Kharge to discuss a joint strategy, with some MPs raising questions about the proposed expansion. Meanwhile, Bahujan Samaj Party (BSP) chief Mayawati welcomed the renewed push for the 33 percent quota but demanded a separate sub-quota for women from Scheduled Castes (SC) and Scheduled Tribes (ST) to ensure equitable representation, while questioning the political intentions behind the concurrent delimitation exercise ahead of the upcoming Parliament session.",
+   "key_facts": [
+    "The Union Cabinet cleared a revised legislative package including the Constitution (132nd Amendment) Bill, 2026, and the delimitation (Second) Bill, 2026.",
+    "The proposed amendments aim to provide a 33 percent reservation for women in Parliament and state assemblies.",
+    "The new bill proposes a 50 percent increase in parliamentary and assembly seats, raising Lok Sabha's maximum strength to 850.",
+    "Seat distribution allocations among states are proposed to be frozen until 2051, using the 1971 Census as a basis.",
+    "An earlier version, the Constitution (131st Amendment) Bill, failed to pass the Lok Sabha in April after missing the required two-thirds majority."
+   ],
+   "case_for": [
+    {
+     "point": "Fulfills a long-standing commitment to provide women with a 33 percent reservation in legislative bodies.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "Expands overall legislative capacity by increasing the maximum strength of the Lok Sabha and state assemblies.",
+     "sources": [
+      1,
+      3
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Critics and opposition leaders question the necessity and intentions behind the 50 percent seat expansion and delimitation linking.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Calls have been raised for a separate sub-quota within the reservation specifically for women from Scheduled Castes (SC) and Scheduled Tribes (ST) to guarantee meaningful representation.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "differ": "Times of India focused more on PM Modi's direct remarks targeting the opposition over the delimitation debate, whereas Hindustan Times provided broader political context, including Mayawati's demand for SC/ST sub-quotas and INDIA bloc strategy meetings.",
+   "background": [
+    {
+     "title": "Women's Reservation Bill",
+     "url": "https://en.wikipedia.org/w/index.php?search=Women%27s+Reservation+Bill"
+    },
+    {
+     "title": "Delimitation Commission of India",
+     "url": "https://en.wikipedia.org/w/index.php?search=Delimitation+Commission+of+India"
+    },
+    {
+     "title": "Lok Sabha",
+     "url": "https://en.wikipedia.org/w/index.php?search=Lok+Sabha"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "Times of India",
+     "title": "'Will remove hurdles to Nari Shakti': PM Modi's msg to oppn amid delimitation debate",
+     "url": "https://timesofindia.indiatimes.com/india/made-promise-to-nari-shakti-pm-modi-pushes-for-delimitation-bill-after-cabinet-nod/articleshow/136241915.cms"
+    },
+    {
+     "name": "Hindustan Times",
+     "title": "Mayawati seeks separate quota for SC, ST women ahead of Parliament session",
+     "url": "https://www.hindustantimes.com/india-news/mayawati-seeks-separate-quota-for-sc-st-women-ahead-of-parliament-session-101795853467869.html"
+    },
+    {
+     "name": "Hindustan Times",
+     "title": "‘Committed to fulfil promise to Nari Shakti’: PM Modi vows to clear all hurdles to women’s quota",
+     "url": "https://www.hindustantimes.com/india-news/will-remove-every-hurdle-to-women-s-reservation-pm-modi-on-women-s-quota-bill-101795851339214.html"
+    },
+    {
+     "name": "Hindustan Times",
+     "title": "New quota bill proposes 50 per cent increase in seats, freezes delimitation till 2051; April bill left both open",
+     "url": "https://www.hindustantimes.com/india-news/new-quota-bill-proposes-50-per-cent-increase-in-seats-freezes-delimitation-till-2051-april-bill-left-both-open-101795849348989.html"
+    }
+   ]
+  },
+  {
+   "id": "e441108b",
+   "category": "India",
+   "headline": "DMK Announces Support for Centre's Delimitation Proposal",
+   "summary": "The Dravida Munnetra Kazhagam (DMK), led by party chief MK Stalin, has announced its support for the delimitation bill proposed by the central government. The decision was finalized during a meeting of party MPs at the party headquarters in Chennai, following deliberations on how the proposal impacts Tamil Nadu's representation in Parliament.\n\nSenior DMK leader and former union minister A Raja stated that the party decided to back the measure after ensuring that core demands regarding the state's parliamentary share were included in the proposed legislation. The DMK had previously emphasized that Tamil Nadu's proportional share should remain protected and that representation proportions based on the 1971 Census should be maintained.\n\nAccording to the party, Tamil Nadu's share of Lok Sabha seats is set to increase from 7.18 percent to 7.21 percent under the current proposal to raise seats by 50 percent across all states. The DMK's 22 Members of Parliament are expected to bolster the ruling side's numbers in Parliament as the bill is tabled.",
+   "key_facts": [
+    "The DMK announced its support for the Centre's proposed delimitation bill following a meeting chaired by party chief MK Stalin in Chennai.",
+    "Senior DMK leader A Raja stated that the party's core demands regarding state representation were included in the proposed bill.",
+    "Tamil Nadu's share of Lok Sabha seats is set to increase from 7.18 percent to 7.21 percent under the current proposal.",
+    "The proposal involves increasing seats by 50 percent across all states.",
+    "The DMK has 22 members in the Lok Sabha."
+   ],
+   "case_for": [
+    {
+     "point": "The party's core demands and protection of Tamil Nadu's share of Lok Sabha seats were included in the proposed bill.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Tamil Nadu's share of Lok Sabha seats will increase to 7.21 percent under the proposal to raise seats by 50 percent across all states.",
+     "sources": [
+      2
+     ]
+    },
+    {
+     "point": "The decision aligns with a resolution previously passed by MK Stalin in the Legislative Assembly.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Earlier statements noted that the party would not compromise on the state's share of parliamentary representation, requiring written assurances before confirming support.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "differ": "NDTV briefly highlights that the DMK's 22 MPs will bolster the ruling side's numbers in Parliament, whereas the Hindustan Times provides detailed context from a party meeting regarding specific percentage shares and prior demands.",
+   "background": [
+    {
+     "title": "Delimitation Commission of India",
+     "url": "https://en.wikipedia.org/w/index.php?search=Delimitation+Commission+of+India"
+    },
+    {
+     "title": "Dravida Munnetra Kazhagam",
+     "url": "https://en.wikipedia.org/w/index.php?search=Dravida+Munnetra+Kazhagam"
+    },
+    {
+     "title": "Lok Sabha",
+     "url": "https://en.wikipedia.org/w/index.php?search=Lok+Sabha"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "NDTV",
+     "title": "Boost To Centre As DMK Declares Support For Delimitation Bill",
+     "url": "https://www.ndtv.com/india-news/parliament-special-session-boost-to-centre-as-dmk-declares-support-for-delimitation-bill-12387945#publisher=newsstand"
+    },
+    {
+     "name": "Hindustan Times",
+     "title": "Stalin-led DMK backs Centre on delimitation, says core demands included in proposed bill",
+     "url": "https://www.hindustantimes.com/india-news/stalinled-dmk-backs-centre-on-delimitation-says-core-demands-included-in-proposed-bill-101795850118491.html"
+    }
+   ]
+  },
+  {
+   "id": "610c25b2",
+   "category": "Politics",
+   "headline": "Severe Thanksgiving Storms Leave Hundreds of Thousands Without Power and Disrupt Travel",
+   "summary": "Severe storms struck both coasts of the United States during the Thanksgiving holiday, leaving hundreds of thousands of people without power, flooding roads, and downing trees. The eastern region was particularly hard hit by high winds, heavy rain, and coastal flooding on Thursday, while the West Coast experienced separate storms.\n\nFlight operations faced significant disruption on both Thanksgiving and Friday, with thousands of delays and cancellations reported nationwide. Rail and road travel was also impacted, including bridge closures in Maryland and road closures in New Jersey due to high winds and rising floodwaters. Washington and New York City both recorded their wettest Thanksgivings on record, and the Macy's Thanksgiving parade was postponed to Saturday for the first time in its 100-year history.\n\nPower cuts peaked at close to a million households on Thursday night, with Pennsylvania, Virginia, Maryland, and New Jersey among the worst affected states. Although outages decreased to over 260,000 by Friday evening, authorities in Maryland asked nearly two million customers to limit water consumption to essential uses only. US President Donald Trump stated he would consider releasing emergency funds, and several states, including New York, declared states of emergency.",
+   "key_facts": [
+    "More than 260,000 customers remained without power by Friday evening after peaking near one million on Thursday night.",
+    "Pennsylvania, Virginia, Maryland, and New Jersey experienced severe power cuts and flooding.",
+    "Thousands of US flights were delayed or cancelled on both Thursday and Friday.",
+    "New York City and Washington experienced their wettest Thanksgivings on record.",
+    "The Macy's Thanksgiving parade was postponed to Saturday for the first time in its century-long history.",
+    "US President Donald Trump stated he would consider releasing emergency funds."
+   ],
+   "case_for": [
+    {
+     "point": "Utility providers are working tirelessly to restore power to affected households as conditions begin to improve.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Federal assistance may be made available, as US President Donald Trump stated he would consider releasing emergency funds.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Severe weather caused widespread disruption, including hundreds of thousands of power outages, flooded roads, fallen trees, and severe travel delays.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Infrastructure strains led to bridge closures, water consumption limits for nearly two million customers in Maryland, and the historic postponement of the Macy's Thanksgiving parade.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "The sources are identical in their reporting, with Source 1 providing more extensive details on flight statistics, specific state impacts, and rainfall records.",
+   "background": [
+    {
+     "title": "Macy's Thanksgiving Day Parade",
+     "url": "https://en.wikipedia.org/w/index.php?search=Macy%27s+Thanksgiving+Day+Parade"
+    },
+    {
+     "title": "Poweroutage.us",
+     "url": "https://en.wikipedia.org/w/index.php?search=Poweroutage.us"
+    },
+    {
+     "title": "National Weather Service",
+     "url": "https://en.wikipedia.org/w/index.php?search=National+Weather+Service"
+    }
+   ],
+   "related": [
+    {
+     "id": "01d079e6",
+     "date": "2026-11-27",
+     "headline": "Severe Storms and King Tides Disrupt Thanksgiving Travel Across the United States"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+     "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+     "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "fadfeffb",
+   "category": "Politics",
+   "headline": "UK Pensions and Benefits Systems Knocked Offline by Cyber Incident",
+   "summary": "The UK Department for Work and Pensions (DWP) experienced a serious cyber incident that knocked almost all public-facing pensions and benefits systems offline, causing widespread disruption for claimants. The government took its portal down late on Thursday as a precautionary measure after detecting unusual activity, leaving individuals unable to check state pensions, apply for disability benefits, or claim universal credit on Friday.\n\nWork and Pensions Secretary Pat McFadden stated that regular benefit and pension payments would continue as normal and that there is currently no evidence that customer data or personal details have been compromised. However, many claimants expressed concern over cancelled appointments, difficulties reaching accounts, and potential delays in applying for emergency payments. Downing Street has not ruled out the possibility of a malicious actor behind the event, and GCHQ’s National Cyber Security Centre is currently investigating the cause.\n\nSenior lawmakers and officials have responded to the outage with calls for strengthened digital infrastructure. While some commended the DWP for taking swift action to contain the incident, others argued that the outage serves as a wake-up call regarding the security and resilience of government digital services. Internal DWP systems were restored by Friday to allow officials to resume working, but the public-facing portals remained offline while investigations continue.",
+   "key_facts": [
+    "The UK Department for Work and Pensions took its portal down late on Thursday after detecting unusual activity.",
+    "Claimants were unable to check state pensions, apply for disability benefits, or claim universal credit on Friday.",
+    "Work and Pensions Secretary Pat McFadden stated there is no evidence that customer data or personal details have been compromised.",
+    "GCHQ’s National Cyber Security Centre is investigating the incident, and Downing Street has not ruled out malicious activity.",
+    "The DWP confirmed that regular benefit and pension payments would still be made and that no one would face sanctions for missing conditions while systems were offline."
+   ],
+   "case_for": [
+    {
+     "point": "The DWP took swift and proactive action by shutting down portals upon detecting unusual activity, helping to contain potential threats.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Officials confirmed that regular benefit and pension payments were protected and continued to be made.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Claimants faced significant disruption, including cancelled appointments, inaccessible online accounts, and anxiety over emergency payments.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Senior MPs and cybersecurity critics argued the incident exposes vulnerabilities in government digital infrastructure and demands improved data hygiene and security.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "The sources generally align, though Source 2 includes additional live-blog updates noting minor local member reports of missing payments alongside government assurances that regular payments were unaffected.",
+   "background": [
+    {
+     "title": "Department for Work and Pensions",
+     "url": "https://en.wikipedia.org/w/index.php?search=Department+for+Work+and+Pensions"
+    },
+    {
+     "title": "National Cyber Security Centre",
+     "url": "https://en.wikipedia.org/w/index.php?search=National+Cyber+Security+Centre"
+    },
+    {
+     "title": "Universal Credit",
+     "url": "https://en.wikipedia.org/w/index.php?search=Universal+Credit"
+    }
+   ],
+   "related": [
+    {
+     "id": "e03ed3ae",
+     "date": "2026-11-04",
+     "headline": "UK Food Supply Chain and European Supermarket Freezers Impacted by Cyber-Attacks"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+     "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline"
+    },
+    {
+     "name": "The Guardian",
+     "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates"
+    }
+   ]
+  },
+  {
+   "id": "c6e2a611",
+   "category": "Politics",
+   "headline": "Two American Airlines Planes Clip Wings While Taxiing at Reagan National Airport",
+   "summary": "Two American Airlines Boeing 737-800 jets made contact on Friday at Ronald Reagan Washington National Airport while taxiing for departure. According to the Federal Aviation Administration, Flight 638, which was bound for Dallas-Fort Worth, clipped the wing of Flight 2152, heading to Chicago's O'Hare airport, at approximately 5:10 p.m. Eastern Time. Both aircraft returned to the gate and were taken out of service for maintenance inspections. No injuries were reported among the passengers or crew, and the FAA announced plans to investigate the incident.\n\nPassengers on board described experiencing a noticeable jolt and shaking during the impact. One passenger recounted hearing gasps inside the cabin and observing that the wingtips of the two planes had overlapped, with a piece of a wingtip falling onto the ground before being retrieved by airport personnel. Air traffic controllers requested an emergency response and fire personnel to the scene immediately following the event.\n\nThe incident drew heightened attention because it occurred at the same airport where a fatal collision took place in January 2025, when a passenger jet and an Army helicopter collided, resulting in 67 deaths. The prior tragedy heightened safety sensitivities surrounding operations at the facility, which is a smaller airport catering primarily to domestic flights near downtown Washington, D.C.",
+   "key_facts": [
+    "Two American Airlines Boeing 737-800 jets clipped wings while taxiing at Reagan National Airport on Friday.",
+    "The incident involved Flight 638 (bound for Dallas-Fort Worth) and Flight 2152 (bound for Chicago).",
+    "Both aircraft returned safely to the gate, and no injuries were reported.",
+    "The Federal Aviation Administration stated it plans to investigate the collision.",
+    "The airport was the site of a fatal collision involving a passenger jet and a military helicopter in January 2025."
+   ],
+   "case_for": [
+    {
+     "point": "Safety procedures and protocols functioned to safely return both planes to the gate without any injuries.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Prompt response from air traffic controllers and emergency services ensured immediate oversight after the contact occurred.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The wing-clipping incident raised safety concerns, particularly given the airport's history, including a deadly collision in January 2025.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Passengers described a tense environment inside the cabin following a violent shake and jolt upon impact.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Ronald Reagan Washington National Airport",
+     "url": "https://en.wikipedia.org/w/index.php?search=Ronald+Reagan+Washington+National+Airport"
+    },
+    {
+     "title": "Federal Aviation Administration",
+     "url": "https://en.wikipedia.org/w/index.php?search=Federal+Aviation+Administration"
+    },
+    {
+     "title": "American Airlines",
+     "url": "https://en.wikipedia.org/w/index.php?search=American+Airlines"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Two American Airlines planes clip wings before takeoff at Reagan airport in 'tense' moment",
+     "url": "https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "f4b69efc",
+   "category": "Business",
+   "headline": "Poundland Enters Administration, Putting Thousands of Jobs and Suppliers at Risk",
+   "summary": "Budget retailer Poundland has entered administration, appointing administrators at AlixPartners after its US-based owner, Gordon Brothers, rejected at least two solvent bids and declined to provide further funding. The collapse places more than 10,000 staff across 600 stores in the UK and Ireland—including the Dealz chain—as well as thousands of suppliers, facing a period of uncertainty ahead of Christmas. Stores currently remain open while about six interested parties, including the Martin Property Group, Zachert Private Equity, Xyra Group Holdings, and Premier Quality Foods, have been given a deadline to submit bids.\n\nQuestions have been raised regarding the actions of Gordon Brothers, which purchased Poundland for £1 last year and has since collected nearly £20m in interest payments and fees. As a secured creditor on a £30m shareholder loan, Gordon Brothers is positioned near the front of the queue to receive administration proceeds from stock sales and lease liquidations. Meanwhile, workers and industry observers have expressed distress and frustration over the situation, noting that despite improvements in customer footfall and staff turnaround efforts, the chain faced severe funding shortages, low stock levels, and halted deliveries from unpaid suppliers. Many watchers now anticipate a potential breakup of the retail chain, alongside significant store closures and job losses.",
+   "key_facts": [
+    "Poundland has entered administration, with AlixPartners appointed as administrators.",
+    "The collapse puts over 10,000 jobs at risk across 600 stores in the UK and Ireland, including the Dealz chain.",
+    "US-based owner Gordon Brothers rejected at least two solvent bids and refused further funding before administration.",
+    "Gordon Brothers previously bought Poundland for £1 last year and collected close to £20m in interest payments and fees.",
+    "About six main interested parties have been given until Sunday to submit bids for the business."
+   ],
+   "case_for": [
+    {
+     "point": "Staff and management made massive efforts to turn the business around, with customer footfall increasing daily in certain locations.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "There are approximately six interested parties considering bids to acquire Poundland out of administration, potentially securing a future for the group or parts of it.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The rejection of solvent bids and refusal of funding by owners Gordon Brothers has been severely criticized by staff, who feel the owners prioritized their own financial returns over the company's survival.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Suppliers have stopped sending goods over fears they will not be paid, leading to low stock levels, while workers face severe job insecurity and potential redundancies.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Poundland",
+     "url": "https://en.wikipedia.org/w/index.php?search=Poundland"
+    },
+    {
+     "title": "Corporate insolvency",
+     "url": "https://en.wikipedia.org/w/index.php?search=Corporate+insolvency"
+    },
+    {
+     "title": "Gordon Brothers",
+     "url": "https://en.wikipedia.org/w/index.php?search=Gordon+Brothers"
+    }
+   ],
+   "related": [
+    {
+     "id": "db56e40d",
+     "date": "2026-10-31",
+     "headline": "Retail Giant Poundland Faces Brink of Administration Amid Funding Cut and Rejected Takeover"
+    },
+    {
+     "id": "018e8f79",
+     "date": "2026-11-03",
+     "headline": "Poundland Founder Offers Investment and Urges Acceptance of Buyout Deal Amid Administration Fears"
+    },
+    {
+     "id": "3e72e352",
+     "date": "2026-11-26",
+     "headline": "Poundland Enters Administration, Putting 11,000 Jobs at Risk"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "‘Punched in the guts’: Poundland staff left reeling as it goes into administration",
+     "url": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers"
+    }
+   ]
+  },
+  {
+   "id": "6566ea8e",
+   "category": "Business",
+   "headline": "Norse Atlantic Airways Files for Bankruptcy and Cancels All Flights",
+   "summary": "Norse Atlantic Airways has filed for bankruptcy and canceled all future flights following severe financial strain caused by surging fuel costs linked to the Iran war. The Norwegian airline entered insolvency after its board concluded that operations were no longer viable, leaving passengers stranded and canceling upcoming routes from hubs including London Gatwick and Manchester.\n\nThe airline's collapse followed a critical financial warning issued just a day prior, which was quickly followed by aircraft lessors serving termination notices for the 12 planes in the carrier's fleet. Chief Executive Eivind Roald expressed deep regret over the impact on passengers, employees, and partners, while noting that efforts were underway to see if parts of the remaining business could continue operations.\n\nPassengers affected by the sudden grounding were advised via the airline's website to contact travel agents, insurers, or credit card companies, as customer service channels were shut down. The airline, founded in 2021 to operate low-cost long-haul routes using Boeing 787 Dreamliners, had previously attempted to cut costs and explore a sale or merger amid mounting financial pressures.",
+   "key_facts": [
+    "Norse Atlantic Airways filed for bankruptcy and canceled all future flights.",
+    "The airline cited surging fuel costs caused by the Iran war as the primary cause of its financial ruin.",
+    "Aircraft lessors served termination notices for all 12 planes in the airline's fleet.",
+    "Passengers were advised that customer service was unavailable and to seek assistance through travel agents, insurers, or credit card companies.",
+    "Founded in 2021, the carrier specialized in low-cost, long-haul flights using Boeing 787 Dreamliners."
+   ],
+   "case_for": [
+    {
+     "point": "The airline's leadership pursued extensive efforts to find a solution and cutting costs before concluding that operations were no longer viable.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "The owning group and the UK subsidiary are attempting to work toward solutions for remaining parts of the business.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The abrupt collapse has disrupted travel plans and left passengers stranded away from home without customer service support.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Spiralling oil prices doubled the cost of jet fuel and dampened consumer demand, overpowering the airline's $50m cost-cutting programme.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Norse Atlantic Airways",
+     "url": "https://en.wikipedia.org/w/index.php?search=Norse+Atlantic+Airways"
+    },
+    {
+     "title": "Low-cost carrier",
+     "url": "https://en.wikipedia.org/w/index.php?search=Low-cost+carrier"
+    },
+    {
+     "title": "Aircraft lease",
+     "url": "https://en.wikipedia.org/w/index.php?search=Aircraft+lease"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+     "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+    }
+   ]
+  },
+  {
+   "id": "96d183f8",
+   "category": "Business",
+   "headline": "Nvidia Halts Sales to Southeast Asia Following New U.S. Restrictions",
+   "summary": "Nvidia has halted its sales of advanced artificial intelligence chips to four countries in Southeast Asia. The decision comes in the wake of tightened United States export restrictions.\n\nUnder the new U.S. rule, companies operating within the affected Southeast Asian nations are required to obtain specific licenses in order to purchase advanced A.I. chips.\n\nThe shipping halt highlights the broad reach of U.S. regulatory measures aimed at controlling the distribution and deployment of advanced semiconductor technology abroad.",
+   "key_facts": [
+    "Nvidia halted sales of advanced A.I. chips to four countries in Southeast Asia.",
+    "The shipping halt was triggered by new U.S. rules.",
+    "The new regulations require licenses for companies in those countries to purchase advanced A.I. chips."
+   ],
+   "case_for": [
+    {
+     "point": "Tightened export restrictions aim to enforce stricter control over advanced A.I. technology distribution.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The new licensing rules and subsequent sales halts disrupt normal business operations and market access in Southeast Asia.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Nvidia",
+     "url": "https://en.wikipedia.org/w/index.php?search=Nvidia"
+    },
+    {
+     "title": "Semiconductor export controls",
+     "url": "https://en.wikipedia.org/w/index.php?search=Semiconductor+export+controls"
+    },
+    {
+     "title": "Artificial intelligence chips",
+     "url": "https://en.wikipedia.org/w/index.php?search=Artificial+intelligence+chips"
+    }
+   ],
+   "related": [
+    {
+     "id": "0b9b4d20",
+     "date": "2026-11-27",
+     "headline": "Nvidia Faces Operational and Market Shifts in Asia Amid U.S. Restrictions and Regulatory Scrutiny"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+     "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
+    }
+   ]
+  },
+  {
+   "id": "8fca166a",
+   "category": "Tech",
+   "headline": "Hackers Reportedly Breach US Air Force Cloud Platform While UK Pension Services Face Cyber Incident Disruption",
+   "summary": "Recent cybersecurity incidents have affected major government systems in both the United States and the United Kingdom. In the US, reports emerged that hackers breached the Air Force's flagship cloud computing platform, known as Cloud One, which handles sensitive personnel, logistics, and tactical data including munitions management. The intrusion, discovered during a systems upgrade within the past month, adds to a series of recent cyber-related events affecting federal systems, including databases tied to the FBI, Department of Homeland Security, and the CIA.\n\nMeanwhile, in the UK, online benefits and pensions services operated by the Department for Work and Pensions (DWP) remained offline following a \"cyber incident.\" Officials stated that the services were taken down as a precaution, though experts and former officials suspect the department was directly targeted by hackers who may have gained initial access. The DWP has assured recipients that regular payments will continue despite the digital disruption.\n\nBoth events have intensified scrutiny regarding the security and resilience of government digital infrastructure. Experts in the UK highlighted challenges related to maintaining older legacy systems against increasingly sophisticated cyber threats, while US reports noted that the Cloud One breach potentially exposed critical tactical and logistical information across numerous global locations.",
+   "key_facts": [
+    "Hackers reportedly breached the US Air Force's Cloud One platform, which manages personnel, logistics, and tactical data.",
+    "The US Air Force stated it does not comment on the security posture or operational status of specific networks.",
+    "UK pension and benefits services were taken offline following a serious cyber incident affecting the Department for Work and Pensions.",
+    "The UK government is investigating the incident alongside GCHQ's National Cyber Security Centre.",
+    "UK officials assured citizens that regular benefit and pension payments would continue despite the online service disruptions."
+   ],
+   "case_for": [
+    {
+     "point": "Proactive system shutdowns in the UK helped prevent potential data theft by blocking access before further compromise.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Prudent measures and ongoing investigations by cybersecurity agencies aim to secure affected networks and protect critical capabilities.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Cyber incidents expose vulnerabilities in critical government infrastructure and legacy systems that may struggle to keep pace with modern threats.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Breaches of military and welfare platforms risk compromising sensitive personnel, tactical, and logistics information.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "differ": "BBC News focused primarily on the disruption of UK pension and welfare services and local expert commentary, whereas The Guardian detailed international reports concerning the US Air Force cloud platform breach and broader US federal cyber incidents.",
+   "background": [
+    {
+     "title": "Cloud One",
+     "url": "https://en.wikipedia.org/w/index.php?search=Cloud+One"
+    },
+    {
+     "title": "Department for Work and Pensions",
+     "url": "https://en.wikipedia.org/w/index.php?search=Department+for+Work+and+Pensions"
+    },
+    {
+     "title": "National Cyber Security Centre",
+     "url": "https://en.wikipedia.org/w/index.php?search=National+Cyber+Security+Centre"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Pensions and benefits services still down after 'cyber incident'",
+     "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+    }
+   ]
+  },
+  {
+   "id": "038cffc1",
+   "category": "Tech",
+   "headline": "Experts Warn of AI Encryption Risks as Retailers Face Automation and Assistant Challenges",
+   "summary": "Leading computer scientists and mathematicians have warned that frontier artificial intelligence labs may be sitting on significant breakthroughs in cryptography that could threaten global security. According to experts such as Scott Aaronson and Steven Murdoch, recent abstract mathematical advances suggest AI could soon possess the capability to crack decades-old encryption algorithms used to protect banking transactions, diplomatic cables, and private emails. While governments and technology companies have slowly been working toward quantum-resistant security standards with an eye on the next decade, these potential sudden AI-driven revelations could force a much more rapid overhaul of global communication foundations.\n\nSimultaneously, the integration of artificial intelligence into the retail sector is drawing mixed reactions from workers, analysts, and industry executives as shopping seasons begin. At retailers like Walmart, employees have expressed frustration over administrative and safety alert tools that they argue can be inaccurate and distract from direct customer service. In June 2026, Walmart investors voted down a proposal for a report on the workplace impacts of automation, while company representatives maintained that their approach is people-led and designed to support associates.\n\nAdditionally, the introduction of AI shopping assistants—such as Meta's Muse assistant launching in the UK with retail partners like Marks & Spencer and Sainsbury's—presents new commercial dynamics. Retail analysts point out that while these tools offer new ways to reach consumers, they also risk bypassing traditional website browsing, potentially reducing impulse purchases, altering customer data collection, and increasing return rates for complex items like apparel. Retailers are thus forced to balance engagement with powerful tech platforms while safeguarding their own direct-to-consumer channels.",
+   "key_facts": [
+    "Leading computer scientists warn AI labs may have made major breakthroughs in cryptography that could undermine global encryption.",
+    "Experts note these developments could accelerate timelines for securing banking, diplomatic, and private communications against advanced decryption.",
+    "Retail workers at companies like Walmart have criticized internal AI safety and scheduling tools for being inaccurate and disruptive to customer service.",
+    "Meta launched its Muse AI shopping assistant in the UK in partnership with several high street retailers.",
+    "Retail analysts warn that AI shopping assistants could bypass traditional websites, potentially impacting impulse buys, data collection, and product return rates."
+   ],
+   "case_for": [
+    {
+     "point": "AI tools and shopping assistants offer new efficiencies, helping consumers find deals, manage tasks, and streamline holiday shopping.",
+     "sources": [
+      2,
+      3
+     ]
+    },
+    {
+     "point": "Retailers partnering with AI platforms gain early insights into consumer behavior, shopping patterns, and product recommendation visibility.",
+     "sources": [
+      3
+     ]
+    },
+    {
+     "point": "Company representatives state that digital tools and AI are intended to support worker safety and assist associates rather than replace human judgment.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Sudden breakthroughs in AI-driven cryptography could compromise global encryption systems, forcing banks and governments to hastily overhaul secure communications.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "In-store retail automation tools can be overly intrusive, generating false alarms and pulling workers away from customer assistance.",
+     "sources": [
+      2
+     ]
+    },
+    {
+     "point": "AI shopping assistants risk undermining traditional retail websites by bypassing browsing channels, threatening customer data monetization, and increasing return rates.",
+     "sources": [
+      3
+     ]
+    }
+   ],
+   "differ": "Source 1 focuses on high-level theoretical computer science and national security risks related to cryptography, whereas Sources 2 and 3 examine practical, commercial implementations and labor friction of AI within the retail and shopping sectors.",
+   "background": [
+    {
+     "title": "Public-key cryptography",
+     "url": "https://en.wikipedia.org/w/index.php?search=Public-key+cryptography"
+    },
+    {
+     "title": "Artificial intelligence in retail",
+     "url": "https://en.wikipedia.org/w/index.php?search=Artificial+intelligence+in+retail"
+    },
+    {
+     "title": "Quantum computing security risks",
+     "url": "https://en.wikipedia.org/w/index.php?search=Quantum+computing+security+risks"
+    }
+   ],
+   "related": [
+    {
+     "id": "803be1c7",
+     "date": "2026-10-25",
+     "headline": "Cybersecurity Experts Warn of AI-Enabled Hacking Era Following Major PHP Vulnerabilities"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+     "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos"
+    },
+    {
+     "name": "The Guardian",
+     "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+     "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails"
+    },
+    {
+     "name": "The Guardian",
+     "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+     "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+    }
+   ]
+  },
+  {
+   "id": "ed33a184",
+   "category": "Tech",
+   "headline": "Intel pressured by Trump administration to surrender 10 percent stake for federal grants",
+   "summary": "Internal company notes from a federal lawsuit reveal that the Trump administration pressured Intel Corporation in August 2025 to surrender a 10 percent equity stake to the U.S. government. According to documents unredacted in a shareholder's lawsuit against Intel's board, Commerce Department lawyer David Shapiro told Intel's chief financial officer that the demand was not a negotiation and that rejection would bring unpredictable consequences.\n\nDays after the warning, Intel's board accepted the terms. Former President Donald Trump subsequently announced on social media that the United States owned and controlled 10 percent of Intel, valued at approximately $11 billion, without paying for the shares. The episode is highlighted in court documents and commentary as part of a broader shift in Commerce Department policy prioritizing direct financial returns to the government over traditional metrics like job creation or market competitiveness.\n\nLegal and policy analysts have criticized the maneuver as coercion that forces private companies to prioritize political demands over shareholder interests. Meanwhile, the administration defended the arrangement as a favorable deal for the country, echoing similar government interventions in the semiconductor sector regarding corporate leadership and financial arrangements.",
+   "key_facts": [
+    "In August 2025, Commerce Department lawyer David Shapiro told Intel's CFO that the administration expected the company to give the U.S. government a 10 percent stake.",
+    "Internal notes from a federal lawsuit indicate Shapiro warned that rejecting the offer would carry unpredictable consequences.",
+    "Intel's board agreed to the demand, and the federal government acquired a 10 percent share valued at approximately $11 billion without paying for it.",
+    "The details emerged from unredacted documents in a shareholder's lawsuit filed against Intel's board.",
+    "Critics and policy analysts described the action as coercion that forces companies to make decisions based on political demands rather than shareholder value."
+   ],
+   "case_for": [
+    {
+     "point": "The administration secured a valuable 10 percent equity stake in a major American semiconductor company for the United States without any upfront financial cost.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Supporters viewed the agreement as a strong deal for America that directly returns value to the government from companies operating in critical domestic industries.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Legal filings and critics allege that the administration used threats and extortion to force Intel's board into caving to government demands.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Analysts warn that government coercion forces companies to make operational and financial decisions based on political demands rather than the best interests of shareholders.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Intel",
+     "url": "https://en.wikipedia.org/w/index.php?search=Intel"
+    },
+    {
+     "title": "United States Department of Commerce",
+     "url": "https://en.wikipedia.org/w/index.php?search=United+States+Department+of+Commerce"
+    },
+    {
+     "title": "Semiconductor industry",
+     "url": "https://en.wikipedia.org/w/index.php?search=Semiconductor+industry"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+     "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/"
+    }
+   ]
+  },
+  {
+   "id": "e180ba8a",
+   "category": "Science",
+   "headline": "Three NIH Studies Link Glyphosate to Cancer, Contrasting With EPA Conclusions",
+   "summary": "The US National Institutes of Health (NIH) has released three new studies linking glyphosate, the active ingredient in Roundup, to cancer. This systematic review of decades of global scientific literature found associations with blood cancers in humans and tumors in animals, contrasting with a recent Environmental Protection Agency (EPA) conclusion that the weedkiller is not a carcinogen.\n\nThe findings present potential political, regulatory, and legal implications. The EPA is currently undergoing a court-ordered re-evaluation of glyphosate's cancer risks. If the EPA determines the substance is linked to cancer, it could face increased regulations, while conflicting findings could further complicate ongoing legal challenges for the EPA and pesticide producer Bayer.\n\nEnvironmental advocates argue the NIH followed rigorous scientific protocols similar to the World Health Organization's International Agency for Research on Cancer. Conversely, a statement from Ruveon, a Bayer subsidiary managing Roundup in the US, emphasized that the EPA and other leading health authorities globally have previously concluded that glyphosate does not cause cancer.",
+   "key_facts": [
+    "The National Institutes of Health released three studies linking glyphosate to cancer.",
+    "The findings contradict an EPA conclusion that the weedkiller is not a carcinogen.",
+    "The NIH conducted a systematic review of decades of global scientific literature rather than carrying out new studies.",
+    "The research found an association with blood cancers in humans and several types of tumors in animals.",
+    "Bayer recorded $2.8bn in sales for the herbicide in 2024."
+   ],
+   "case_for": [
+    {
+     "point": "The NIH studies followed proper scientific protocols used by credible research organizations like the World Health Organization's IARC.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "The findings are backed by the nation's top medical research agency and review decades of global scientific literature.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The EPA and other leading health authorities globally have previously and repeatedly concluded that glyphosate does not cause cancer.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "The studies represent a major public relations hit and potential legal complication for producer Bayer.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Glyphosate",
+     "url": "https://en.wikipedia.org/w/index.php?search=Glyphosate"
+    },
+    {
+     "title": "National Institutes of Health",
+     "url": "https://en.wikipedia.org/w/index.php?search=National+Institutes+of+Health"
+    },
+    {
+     "title": "Environmental Protection Agency",
+     "url": "https://en.wikipedia.org/w/index.php?search=Environmental+Protection+Agency"
+    }
+   ],
+   "related": [
+    {
+     "id": "16914eb2",
+     "date": "2026-11-21",
+     "headline": "Judge Approves $7 Billion Settlement Over Claims That Roundup Causes Cancer"
+    },
+    {
+     "id": "43b8d516",
+     "date": "2026-11-22",
+     "headline": "Judge Approves $7 Billion Settlement Over Roundup Cancer Claims"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+     "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa"
+    }
+   ]
+  },
+  {
+   "id": "c4e056de",
+   "category": "Science",
+   "headline": "Homo Erectus Lived in Rainforests, Challenging Previous Adaptation Theories",
+   "summary": "Recent findings based on a handful of teeth indicate that Homo erectus lived in the dense rainforests of southern China. This discovery expands our understanding of the survival flexibility and adaptability of these distant human relatives.\n\nPreviously held adaptation theories suggested that early humans were less suited for dense rainforest environments. The new evidence challenges these long-held assumptions by showing that Homo erectus successfully survived in such challenging ecological settings.\n\nThe discovery is significant because it provides new insight into the behavior and migration patterns of archaic humans. By demonstrating that Homo erectus could inhabit dense rainforests, researchers gain a broader perspective on their ecological range and evolutionary success.",
+   "key_facts": [
+    "A handful of teeth provided evidence that Homo erectus lived in rainforests.",
+    "The remains were found in the dense rainforests of southern China.",
+    "The findings challenge existing theories about the adaptability of Homo erectus."
+   ],
+   "case_for": [
+    {
+     "point": "The discovery expands our understanding of the flexibility and survival capabilities of Homo erectus.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Finding evidence of these hominins in dense rainforests challenges restrictive previous adaptation theories.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The evidence is based on a limited sample, consisting only of a handful of teeth.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Homo erectus",
+     "url": "https://en.wikipedia.org/w/index.php?search=Homo+erectus"
+    },
+    {
+     "title": "Human evolution",
+     "url": "https://en.wikipedia.org/w/index.php?search=Human+evolution"
+    },
+    {
+     "title": "Paleoanthropology",
+     "url": "https://en.wikipedia.org/w/index.php?search=Paleoanthropology"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "title": "Homo Erectus Lived in Rainforests, Upending Ideas About Their Adaptability",
+     "url": "https://www.nytimes.com/2026/11/27/science/homo-erectus-early-humans-china-rainforests.html"
+    }
+   ]
+  },
+  {
+   "id": "25a266cf",
+   "category": "Health",
+   "headline": "Surge in severe flu cases prompts urgent vaccination calls across England",
+   "summary": "Health officials in England are urging vulnerable individuals and young children to get vaccinated as soon as possible following a sharp rise in severe flu cases and hospital admissions. According to the UK Health Security Agency (UKHSA), hospital admission rates for the virus soared by nearly 80% in a single week, reaching the highest levels for this time of year since before the COVID-19 pandemic. Experts note that the flu season has arrived slightly early, driven in part by the H1N1 strain, and warn that levels are likely to increase further as people socialise indoors leading up to Christmas.\n\nDespite the rising numbers, vaccine uptake remains lower than usual. Data shows that just under 68% of people aged 65 and over have received the jab, while only 34% of under-65s in clinical risk groups—such as those with diabetes or lung, kidney, or liver disease—have been vaccinated. This leaves approximately seven million eligible people unprotected. In response to the growing pressure on health services, outgoing NHS England chief executive Sir Jim Mackey noted that some hospitals have reintroduced mask-wearing and condemned the entrenchment of corridor care.\n\nTo combat the low uptake, pharmacies are being asked to administer flu jabs to children for the first time as part of a pre-Christmas push to reach those who missed school vaccinations. Health professionals emphasise that while vaccinated individuals can still contract the virus, the jab significantly reduces the risk of severe illness, hospitalisation, and complications such as pneumonia or heart attacks. Experts advise that even with slight strains drifting, the vaccine remains a safe and vital tool for protecting vulnerable groups.",
+   "key_facts": [
+    "Hospital admission rates for flu in England rose by nearly 80% over the course of a week.",
+    "The UKHSA reported that flu activity has hit its highest point for this time of year since before the COVID-19 pandemic.",
+    "Only about 34% of under-65s in clinical risk groups and under 68% of people aged 65 and over have been vaccinated so far.",
+    "Pharmacies are being asked to administer flu jabs to children for the first time to reach those who missed school sessions.",
+    "The H1N1 strain is reported to be fueling the spread of the virus this season."
+   ],
+   "case_for": [
+    {
+     "point": "Vaccination significantly lowers the risk of severe illness, hospitalisation, and life-threatening complications like pneumonia.",
+     "sources": [
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "point": "Expanding access through over 6,000 high street pharmacies helps catch children who missed school-administered jabs.",
+     "sources": [
+      4
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Low vaccine uptake leaves roughly seven million vulnerable individuals unprotected heading into the winter peak.",
+     "sources": [
+      1,
+      3
+     ]
+    },
+    {
+     "point": "The early flu spike places additional strain on already squeezed NHS services, contributing to issues like corridor care.",
+     "sources": [
+      3
+     ]
+    }
+   ],
+   "differ": "The Guardian places specific emphasis on the new initiative involving pharmacies administering flu vaccines to children, whereas BBC News focuses more broadly on overall hospital admission statistics, expert commentary, and low uptake rates across vulnerable demographics.",
+   "background": [
+    {
+     "title": "UK Health Security Agency",
+     "url": "https://en.wikipedia.org/w/index.php?search=UK+Health+Security+Agency"
+    },
+    {
+     "title": "NHS England",
+     "url": "https://en.wikipedia.org/w/index.php?search=NHS+England"
+    },
+    {
+     "title": "Influenza vaccine",
+     "url": "https://en.wikipedia.org/w/index.php?search=Influenza+vaccine"
+    }
+   ],
+   "related": [
+    {
+     "id": "79dc5a72",
+     "date": "2026-11-27",
+     "headline": "UK Hospitals Brace for Severe Flu Spike Amid Surge in Admissions"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Should I get a flu vaccine now?",
+     "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "What's behind the surge in severe flu cases?",
+     "url": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Parents urged to vaccinate children for flu as hospital cases surge in England",
+     "url": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england"
+    }
+   ]
+  },
+  {
+   "id": "f5e6fd66",
+   "category": "Health",
+   "headline": "Mental Health Patients Refusing NHS Treatment Due to Shared Therapy Notes",
+   "summary": "Some psychiatric patients are reportedly refusing NHS treatment because intimate details from their therapy sessions are being added to broader medical records, raising concerns about patient privacy and health risks.\n\nCases highlighted include individuals stopping treatment for heart conditions or avoiding future support for panic attacks after discovering sensitive disclosures—such as trauma from a husband being taken hostage, experiences of child abuse, or intrusive thoughts related to obsessive-compulsive disorder (OCD)—were uploaded to shared patient systems like the London Care Record or sent to cardiac nurses.\n\nThe issue recently featured in a House of Lords debate concerning the health bill and a proposed single patient record. Critics, including Liberal Democrat digital economy spokesperson Tim Clement-Jones and emeritus professor of psychiatry Sheila Hollins, warned that without proper statutory guardrails, patients face an intolerable choice between their privacy and their healthcare, with Hollins proposing an amendment to prevent the routine disclosure of therapy notes.\n\nWhile trusts maintain that relevant information may sometimes be shared to ensure coordinated care, affected patients have described devastating losses of confidentiality that severely impact their willingness to engage with medical services.",
+   "key_facts": [
+    "Some psychiatric patients are refusing NHS medical and mental health treatment after discovering intimate therapy details in their records.",
+    "Reported cases involve the sharing of sensitive information such as intrusive OCD thoughts, trauma from a hostage situation, and histories of child abuse.",
+    "The issue was raised during a House of Lords debate on the health bill and a proposed single patient record.",
+    "A proposed amendment by Sheila Hollins aims to prevent routine disclosure of therapy notes to protect patient privacy."
+   ],
+   "case_for": [
+    {
+     "point": "Proponents of shared record systems argue that relevant clinical information needs to be accessible across different care settings to provide safe, coordinated, and holistic healthcare.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Critics and affected patients contend that uploading intimate and irrelevant therapy details into shared medical records breaches privacy, causes severe embarrassment, and deters individuals from seeking necessary medical care.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "National Health Service (NHS)",
+     "url": "https://en.wikipedia.org/w/index.php?search=National+Health+Service+%28NHS%29"
+    },
+    {
+     "title": "Patient confidentiality",
+     "url": "https://en.wikipedia.org/w/index.php?search=Patient+confidentiality"
+    },
+    {
+     "title": "Medical records",
+     "url": "https://en.wikipedia.org/w/index.php?search=Medical+records"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Mental health patients refusing NHS treatment over shared therapy notes",
+     "url": "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared"
+    }
+   ]
+  },
+  {
+   "id": "cf9950f0",
+   "category": "Environment",
+   "headline": "Research Warns Sinking African Megacities Face Severe Flood Risks by 2050",
+   "summary": "New research published in Science Advances indicates that a combination of sinking land and rising sea levels could expose more than seven million people in Africa's coastal megacities to flooding by the middle of the century. The study analyzed 20 of Africa's most populous coastal cities using satellite data and Intergovernmental Panel on Climate Change sea level rise projections.\n\nThe findings identify Lagos in Nigeria and Alexandria in Egypt as the most vulnerable areas, noting that they are sinking at rates of 5.2mm and 6.3mm per year, respectively. These subsidence rates are comparable to those observed in south-east Asian megacities like Jakarta and Manila. Together, Lagos and Alexandria account for an estimated five million people and $150bn in assets that could be exposed to flooding by mid-century under the analyzed conditions.\n\nAccording to the analysis, a moderate warming scenario combined with an extreme sea level event could expose one million buildings and $180bn of assets across the studied cities. Human activities such as groundwater pumping and fossil fuel drilling contribute to ground subsidence, while natural seismic or volcanic activity can also alter land height.\n\nLead author Oluwaseyi Dasho explained that the study keeps population and city data constant at 2020 levels to isolate the effects of vertical land movement and sea level rise. Consequently, the actual impact could vary depending on future urban growth or population migration away from vulnerable areas. Other locations, such as Djibouti City, Mogadishu, and Tripoli, were found to face minimal economic exposure due to smaller populations and infrastructure bases.",
+   "key_facts": [
+    "New research in Science Advances assesses flood risks for 20 of Africa's most populous coastal cities by 2050.",
+    "More than seven million people could be exposed to flooding due to sinking land and rising seas.",
+    "Lagos and Alexandria are identified as subsidence hotspots, sinking at rates of 5.2mm and 6.3mm per year, respectively.",
+    "An extreme sea level event under a moderate warming scenario could expose one million buildings and $180bn in assets.",
+    "Human activities like groundwater pumping and fossil fuel extraction contribute to land subsidence."
+   ],
+   "case_for": [
+    {
+     "point": "The study provides valuable insights by utilizing over 4,000 satellite images and combining them with IPCC sea level projections to map regional risks.",
+     "sources": []
+    },
+    {
+     "point": "Isolating the variables of vertical land movement and sea level rise by keeping 2020 population levels constant helps clarify the baseline physical threat.",
+     "sources": []
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Holding city populations constant at 2020 levels means the projections might not accurately reflect future conditions, as continued urban growth could increase exposure while population migration could decrease it.",
+     "sources": []
+    },
+    {
+     "point": "Human activities such as groundwater pumping and fossil fuel drilling continue to exacerbate land subsidence in vulnerable coastal areas.",
+     "sources": []
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Subsidence",
+     "url": "https://en.wikipedia.org/w/index.php?search=Subsidence"
+    },
+    {
+     "title": "Sea level rise",
+     "url": "https://en.wikipedia.org/w/index.php?search=Sea+level+rise"
+    },
+    {
+     "title": "Intergovernmental Panel on Climate Change",
+     "url": "https://en.wikipedia.org/w/index.php?search=Intergovernmental+Panel+on+Climate+Change"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "Carbon Brief",
+     "title": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+     "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050"
+    }
+   ]
+  },
+  {
+   "id": "0ef82ea7",
+   "category": "Environment",
+   "headline": "Heatwaves and Drought Affect Christmas Vegetable Harvest in the UK",
+   "summary": "Brussel sprouts and other brassica crops such as cabbages, broccoli, and cauliflowers are expected to be smaller this year following a hot, dry summer in the UK. The extreme weather and drought conditions across Wales and most of England left low water reserves, limiting the amount growers could use to irrigate their outdoor crops planted between March and early June.\n\nThe reduced growth has led to higher volumes of stunted sprouts, particularly from Lincolnshire, a major growing region that experienced extended periods of drought. Food retailers like the low-waste distributor Oddbox report receiving significantly higher quantities of smaller sprouts than usual, as traditional supermarkets and food retailers typically select mid-sized vegetables.\n\nWhile some consumers may be concerned that smaller vegetables will be harder to peel and prepare, industry representatives note that smaller sizes do not require cutting in half like larger ones, balancing out preparation time. Meanwhile, producers highlight that modern breeding, new varieties, and improved cooking methods such as roasting, pickling, or air-frying have helped improve the vegetable's overall popularity among consumers.",
+   "key_facts": [
+    "Hot and dry summer weather in the UK stunted the growth of brussels sprouts and other brassicas including cabbage, broccoli, and cauliflower.",
+    "Low water reserves limited irrigation by growers during the season.",
+    "Low-waste food retailer Oddbox reported a higher volume of smaller-than-usual sprouts available this year.",
+    "Lincolnshire, a key region for brassica production, experienced extended periods of drought.",
+    "Over half of adults polled by YouGov in October reported that they liked sprouts."
+   ],
+   "case_for": [
+    {
+     "point": "Smaller sprouts save preparation time because they do not need to be cut in half like larger sizes.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Tweaks to sprout breeding and new varieties have made the vegetable tastier and reduced perceived bitterness.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Improved cooking techniques, such as roasting, pickling, and air-frying, have increased consumer appreciation for sprouts.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Drought and heatwaves limited water reserves and restricted crop irrigation, negatively impacting harvest sizes.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Some consumers may believe that smaller sprouts are more difficult to peel and prepare.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Brussels sprout",
+     "url": "https://en.wikipedia.org/w/index.php?search=Brussels+sprout"
+    },
+    {
+     "title": "2022 United Kingdom heatwaves",
+     "url": "https://en.wikipedia.org/w/index.php?search=2022+United+Kingdom+heatwaves"
+    },
+    {
+     "title": "Drought in the United Kingdom",
+     "url": "https://en.wikipedia.org/w/index.php?search=Drought+in+the+United+Kingdom"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Stunted sprouts: heatwaves and drought take toll on festive vegetable",
+     "url": "https://www.theguardian.com/business/2026/nov/28/sprouts-smaller-than-usual-heatwaves-drought-festive-vegetable"
+    }
+   ]
+  },
+  {
+   "id": "b5bbdccd",
+   "category": "Sports",
+   "headline": "Columbus Crew eliminate Inter Miami from MLS playoffs",
+   "summary": "The Columbus Crew defeated Inter Miami 1-0 on Friday in Ohio, securing a 2-0 sweep in their best-of-three first-round MLS Cup playoff series and knocking out the defending champions. Santiago Rodríguez scored the game-winning goal in the second minute of stoppage time, capping off a cold, rainy match where Miami failed to capitalize on multiple scoring opportunities, including chances by Lionel Messi and a close-range header by Germán Berterame late in the game. The victory advances the seventh-seeded Crew to the next round, continuing a remarkable turnaround under interim head coach Laurent Courtois after beginning the season at the bottom of the Eastern Conference.\n\nFor Inter Miami, the playoff exit marks a disappointing end to a star-studded season in which the team also fell short in the Leagues Cup and the CONCACAF Champions Cup. Despite finishing as the MLS's best away team and entering the series with high hopes, Miami struggled to convert their chances across both games, including a 3-0 loss in Florida that featured a red card for defender Gonzalo Luján. The defeat also extends the ongoing MLS champion's curse, as no team has successfully defended the league title since 2012.\n\nThe loss brings renewed global attention to Lionel Messi, who experienced a challenging year following the death of his father and agent, Jorge Messi, and his subsequent international retirement from Argentina. While Messi signed a contract extension with Miami through the 2028 MLS season, questions remain regarding his future and how the league's upcoming transition to a fall-to-spring calendar might impact his career moving forward.",
+   "key_facts": [
+    "Columbus Crew defeated Inter Miami 1-0 in Game 2, winning the best-of-three first-round series 2-0.",
+    "Santiago Rodríguez scored the winning goal for Columbus in the second minute of stoppage time.",
+    "Inter Miami missed multiple scoring chances during the match, including efforts by Lionel Messi and Germán Berterame.",
+    "The Columbus Crew advanced to face the winner of the series between the New England Revolution and the Philadelphia Union.",
+    "The defeat extends the MLS champion's curse, with no team having successfully defended the title since 2012."
+   ],
+   "case_for": [
+    {
+     "point": "The Columbus Crew demonstrated resilience and strong form, overcoming a poor start to the season and a coaching change to sweep the defending champions.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Inter Miami relied on their strong away record and star-studded roster to mount a competitive effort, creating key scoring opportunities on the road in difficult weather conditions.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Inter Miami failed to capitalize on critical scoring chances during Game 2, ultimately conceding a late stoppage-time goal that sealed their elimination.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "The defending champions fell short across multiple competitions this season, including the Leagues Cup and the CONCACAF Champions Cup.",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "differ": "The Guardian provides broader context regarding Lionel Messi's personal challenges and contract details, while The Hindu focuses more specifically on match statistics, Miami's roster, and tournament history.",
+   "background": [
+    {
+     "title": "MLS Cup Playoffs",
+     "url": "https://en.wikipedia.org/w/index.php?search=MLS+Cup+Playoffs"
+    },
+    {
+     "title": "Inter Miami CF",
+     "url": "https://en.wikipedia.org/w/index.php?search=Inter+Miami+CF"
+    },
+    {
+     "title": "Columbus Crew",
+     "url": "https://en.wikipedia.org/w/index.php?search=Columbus+Crew"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+     "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Lionel Messi’s defending champions Miami knocked out of MLS Cup playoffs",
+     "url": "https://www.thehindu.com/sport/football/lionel-messis-defending-champions-miami-knocked-out-of-mls-cup-playoffs/article71753553.ece"
+    }
+   ]
+  },
+  {
+   "id": "46a8eaf0",
+   "category": "Sports",
+   "headline": "Nottingham Forest defeats Chelsea 3-2 in the Premier League",
+   "summary": "Nottingham Forest secured a 3-2 victory against Chelsea at the City Ground, marking their first home win over Chelsea since 1997. The match saw Igor Jesus open the scoring with a volley in the fifth minute, followed by two goals from Morgan Gibbs-White, including a penalty in the 51st minute. Despite two late goals from Chelsea substitute Emmanuel Emegha, Forest held on to claim the three points and move three points clear of the Premier League relegation zone.\n\nThe match was overshadowed by a difficult night for Chelsea defender Wesley Fofana, who faced heavy jeers and hostility from his own team's supporters. The backlash followed an unauthorised interview in which Fofana made controversial remarks, including joking about a missed penalty in a previous Carabao Cup match against Liverpool. Fofana conceded a penalty, was booked, and was substituted in the 56th minute.\n\nChelsea manager Xabi Alonso defended his decision to start Fofana and emphasized the need for the team and fans to stick together through a difficult run of form. The defeat adds to Chelsea's recent struggles, marking their fourth loss in five games and leaving their defense under scrutiny after conceding over 20 goals in their opening 11 Premier League matches.",
+   "key_facts": [
+    "Nottingham Forest defeated Chelsea 3-2 at the City Ground.",
+    "Igor Jesus scored the opening goal for Forest in the fifth minute.",
+    "Morgan Gibbs-White scored two goals for Forest, including a 51st-minute penalty.",
+    "Emmanuel Emegha scored two late goals for Chelsea as a substitute.",
+    "Chelsea defender Wesley Fofana was targeted by hostile chants from his own fans and substituted in the 56th minute."
+   ],
+   "case_for": [
+    {
+     "point": "Forest delivered an effective tactical performance, utilizing early pressure and goals from Igor Jesus and Morgan Gibbs-White to secure their first home win against Chelsea since 1997.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Manager Xabi Alonso emphasized unity, publicly supporting Fofana and calling on the squad and supporters to stick together through tough moments.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "Chelsea's defensive vulnerabilities continued to show, as they have now conceded more than 20 goals in their first 11 Premier League matches and suffered a fourth defeat in five games.",
+     "sources": [
+      1,
+      2
+     ]
+    },
+    {
+     "point": "Wesley Fofana faced severe backlash and abuse from travelling Chelsea supporters following controversial remarks made in an unauthorised interview.",
+     "sources": [
+      1,
+      2
+     ]
+    }
+   ],
+   "differ": "The Guardian provides a more detailed tactical breakdown of Chelsea's defensive frailties and positioning during the match, whereas BBC Sport places greater emphasis on the fan reaction and controversy surrounding Wesley Fofana.",
+   "background": [
+    {
+     "title": "Wesley Fofana",
+     "url": "https://en.wikipedia.org/w/index.php?search=Wesley+Fofana"
+    },
+    {
+     "title": "Nottingham Forest F.C.",
+     "url": "https://en.wikipedia.org/w/index.php?search=Nottingham+Forest+F.C."
+    },
+    {
+     "title": "Premier League",
+     "url": "https://en.wikipedia.org/w/index.php?search=Premier+League"
+    }
+   ],
+   "related": [
+    {
+     "id": "cb122f9a",
+     "date": "2026-10-25",
+     "headline": "Tottenham defeats Chelsea 2-0 at Stamford Bridge following Cole Palmer red card"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC Sport",
+     "title": "'You're not welcome here' - fans turn on Fofana as Chelsea lose again",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+     "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report"
+    }
+   ]
+  },
+  {
+   "id": "c9419517",
+   "category": "Entertainment",
+   "headline": "WWE Star Bronson Reed Dies at Age 38",
+   "summary": "WWE star Bronson Reed, whose real name was Jermaine Haley, died on Friday at the age of 38. The WWE confirmed his death in a statement, noting that he passed away due to medical complications. The league expressed condolences to his family, including his pregnant wife, Paige, and their daughter, as well as his friends, co-workers, and fans.\n\nHaley, an Australian-born wrestler raised in Adelaide, began his career on Australia's independent circuit, wrestling for local promotions such as International Wrestling Australia and Melbourne City Wrestling. He joined the WWE in 2019, initially appearing on the \"NXT\" series. Although he was released in 2021, he returned the following year and remained active with the organization until his passing.\n\nDuring his time with the WWE, Haley advanced to the main event scene in 2025 as a member of The Vision faction alongside Seth Rollins, Bron Breakker, and Paul Heyman. In a previous interview with Rolling Stone AU/ZN, Haley reflected on his career path, describing how his 2021 release gave him a renewed sense of confidence and determination upon his return. His recent appearances included performing at the WWE Crown Jewel event in Saudi Arabia.",
+   "key_facts": [
+    "WWE star Bronson Reed, whose real name was Jermaine Haley, died Friday at age 38.",
+    "The WWE confirmed his passing, stating it was due to medical complications.",
+    "Haley is survived by his pregnant wife, Paige, and their daughter.",
+    "He joined the WWE in 2019, returned in 2022 after a brief release, and became part of The Vision faction in 2025."
+   ],
+   "case_for": [
+    {
+     "point": "The WWE and media reports highlighted Haley's positive character, describing him as a phenomenal person, devoted family man, and beloved colleague.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Supporters and colleagues recognized his professional growth, noting his progression into the main event scene with The Vision faction in 2025.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The sudden loss of the 38-year-old wrestler due to medical complications leaves behind a pregnant wife and daughter.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "WWE",
+     "url": "https://en.wikipedia.org/w/index.php?search=WWE"
+    },
+    {
+     "title": "NXT",
+     "url": "https://en.wikipedia.org/w/index.php?search=NXT"
+    },
+    {
+     "title": "Professional wrestling",
+     "url": "https://en.wikipedia.org/w/index.php?search=Professional+wrestling"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "Variety",
+     "title": "WWE Star Bronson Reed Dies at 38",
+     "url": "https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879/"
+    }
+   ]
+  },
+  {
+   "id": "9fd1c33b",
+   "category": "Entertainment",
+   "headline": "Venice Biennale Appoints First Arab Curator for 2028 Exhibition",
+   "summary": "The Venice Biennale has appointed Hoor Al-Qasimi as the curator for its 62nd edition, making her the first Arab curator in the history of the world's oldest and best-attended contemporary art exhibition.\n\nAl-Qasimi currently serves as the director of the Sharjah Biennial in the United Arab Emirates. She is scheduled to organize the upcoming 2028 edition of the prominent international art event.\n\nBecause the provided sources are very brief, further details regarding the appointment process, reactions from the arts community, or specific goals for the 2028 exhibition are not available in the text.",
+   "key_facts": [
+    "Hoor Al-Qasimi has been named the curator for the 62nd Venice Biennale.",
+    "She is the first Arab curator appointed to the position.",
+    "The appointment was reported by The New York Times.",
+    "She currently works as the director of the Sharjah Biennial in the United Arab Emirates.",
+    "The 62nd edition of the exhibition is scheduled for 2028."
+   ],
+   "case_for": [
+    {
+     "point": "The appointment marks a historic milestone as the first time an Arab curator will lead the world's oldest and best-attended contemporary art exhibition.",
+     "sources": [
+      1
+     ]
+    },
+    {
+     "point": "Al-Qasimi brings leadership experience from her current role as director of the Sharjah Biennial in the United Arab Emirates.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "case_against": [
+    {
+     "point": "The provided source is extremely brief and does not contain information regarding potential criticisms, challenges, or alternative viewpoints concerning the appointment.",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "differ": "",
+   "background": [
+    {
+     "title": "Venice Biennale",
+     "url": "https://en.wikipedia.org/w/index.php?search=Venice+Biennale"
+    },
+    {
+     "title": "Sharjah Biennial",
+     "url": "https://en.wikipedia.org/w/index.php?search=Sharjah+Biennial"
+    },
+    {
+     "title": "Hoor Al-Qasimi",
+     "url": "https://en.wikipedia.org/w/index.php?search=Hoor+Al-Qasimi"
+    }
+   ],
+   "related": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "title": "Venice Biennale Names Its First Arab Curator: Hoor Al-Qasimi",
+     "url": "https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html"
+    }
+   ]
+  }
+ ],
+ "quick": [
+  {
+   "category": "World",
+   "headline": "Taiwan holds local elections under heightened tensions and Chinese pressure",
+   "blurb": "Taiwanese voters cast ballots in local elections amid warnings of interference and military pressure from Beijing.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Threat from China looms large over Taiwan’s local elections",
+     "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
+    },
+    {
+     "name": "DW",
+     "title": "Polls close in Taiwan's closely watched local elections",
+     "url": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "name": "The New York Times",
+     "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+     "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate",
+     "url": "https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece"
+    }
+   ]
+  },
+  {
+   "category": "World",
+   "headline": "US disables ship in Gulf of Oman amid enforcement of Iran blockade",
+   "blurb": "The United States military disabled a ship attempting to leave Iran as Washington strictly enforces a naval blockade.",
+   "sources": [
+    {
+     "name": "DW",
+     "title": "US disables ship in Gulf of Oman under Iran blockade",
+     "url": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "name": "The Hindu",
+     "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
+     "url": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece"
+    }
+   ]
+  },
+  {
+   "category": "World",
+   "headline": "Explosion outside school in eastern Afghanistan kills multiple students",
+   "blurb": "At least six students were killed and others wounded in a blast near a middle school in Afghanistan's Kunar province.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
+     "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
+     "url": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece"
+    }
+   ]
+  },
+  {
+   "category": "World",
+   "headline": "Zelenskyy criticizes U.S. approach to Russia and questions Trump's Putin comments",
+   "blurb": "Ukrainian President Volodymyr Zelenskyy urged the United States to apply more pressure on Moscow and questioned references to Vladimir Putin as a friend.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Zelenskyy urges U.S. to pressure Russia and questions Trump referring Putin as ‘friend’",
+     "url": "https://www.thehindu.com/news/international/zelenskyy-urges-us-to-pressure-russia-and-questions-trump-referring-putin-as-friend/article71753434.ece"
+    }
+   ]
+  },
+  {
+   "category": "World",
+   "headline": "Uganda announces troop withdrawal from eastern Democratic Republic of Congo",
+   "blurb": "Kampala has announced plans to withdraw Ugandan military forces from towns in the eastern region of the Democratic Republic of Congo.",
+   "sources": [
+    {
+     "name": "FRANCE 24",
+     "title": "Uganda to withdraw troops from DR Congo",
+     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo"
+    },
+    {
+     "name": "FRANCE 24",
+     "title": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+     "url": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row"
+    }
+   ]
+  },
+  {
+   "category": "World",
+   "headline": "Australian state election sees Coalition projected to defeat Labor government",
+   "blurb": "Polls and projections indicate the Coalition is set to win the Victorian state election, ending 12 years of Labor rule.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results – latest news",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Victorian election 2026: Coalition projected to win state poll, ending 12 years of Labor government",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb"
+    }
+   ]
+  },
+  {
+   "category": "World",
+   "headline": "Canadian man pleads guilty and apologizes to victims' families over suicide kit sales",
+   "blurb": "Kenneth Law offered a public apology in court after pleading guilty to aiding and abetting suicide in Canada.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "India",
+   "headline": "INDIA Bloc and Opposition Discuss Strategy and Demands Ahead of Delimitation Bill",
+   "blurb": "Opposition leaders met to discuss a joint strategy and raised concerns regarding the proposed delimitation bill ahead of the parliamentary special session.",
+   "sources": [
+    {
+     "name": "The Hindu",
+     "title": "Delimitation Bill a bid to reduce political representation of south Indian States: Chennithala",
+     "url": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Delimitation Bill LIVE: This Bill is dangerous to democracy, says Kharge; DMK announces support for Centre's proposal",
+     "url": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece"
+    },
+    {
+     "name": "The Hindu",
+     "title": "INDIA bloc leaders meet at Kharge’s residence to discuss joint strategy ahead of Parliament’s special sitting",
+     "url": "https://www.thehindu.com/news/national/parliaments-special-sitting-india-bloc-floor-leaders-deliberate-joint-strategy/article71753841.ece"
+    },
+    {
+     "name": "Times of India",
+     "title": "No change in LS strength, 25-year seat protection: INDIA bloc's demands on delimitation",
+     "url": "https://timesofindia.indiatimes.com/india/no-change-in-ls-strength-25-year-seat-protection-india-blocs-demands-on-delimitation/articleshow/136242117.cms"
+    }
+   ]
+  },
+  {
+   "category": "India",
+   "headline": "Strict Security and Judicial Review Precede Thirupparankundram Lamp Lighting Row",
+   "blurb": "Former High Court judges reviewed logistical arrangements and security measures at Thirupparankundram ahead of the 'deepathoon' lamp lighting event.",
+   "sources": [
+    {
+     "name": "The Hindu",
+     "title": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Former High Court judges review arrangements at Thirupparankundram ahead of ‘deepathoon’ lamp lighting",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/former-high-court-judges-review-arrangements-at-thirupparankundram-ahead-of-deepathoon-lamp-lighting-crpf-takes-over-security/article71753979.ece"
+    },
+    {
+     "name": "The Hindu",
+     "title": "Devotees gather at Thirupparankundram foothills under tight security",
+     "url": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-at-thiruparankundram-foothills-under-tight-security/article71753537.ece"
+    },
+    {
+     "name": "Hindustan Times",
+     "title": "Former judges meet officials, CRPF personnel over Karthigai Deepam row",
+     "url": "https://www.hindustantimes.com/india-news/former-judges-meet-officials-crpf-personnel-over-karthigai-deepam-row-101795851488099.html"
+    }
+   ]
+  },
+  {
+   "category": "India",
+   "headline": "Four Shot Dead in Rohtak Hotel Amid Gangster Rivalry",
+   "blurb": "Four young men were killed in a shooting at a Rohtak hotel after a rivalry triggered by a murder plot.",
+   "sources": [
+    {
+     "name": "Times of India",
+     "title": "Bloodbath at Rohtak hotel: How 'girlfriend' lured gangster into murder trap; 4 shot dead",
+     "url": "https://timesofindia.indiatimes.com/city/gurgaon/bloodbath-at-rohtak-hotel-how-girlfriend-lured-gangster-into-murder-trap-4-men-shot-dead/articleshow/136241902.cms"
+    },
+    {
+     "name": "NDTV",
+     "title": "Haryana Gangster's Lover Led His Rivals To Him. He Escapes Firing By Minutes",
+     "url": "https://www.ndtv.com/india-news/mystery-woman-in-rohtak-firing-was-gangster-sunny-ritolias-lover-cops-12387801#publisher=newsstand"
+    }
+   ]
+  },
+  {
+   "category": "India",
+   "headline": "Karnataka CM Threatens 'Delhi Chalo' Protest Over Drought Relief Funds",
+   "blurb": "Karnataka Chief Minister D.K. Shivakumar announced plans to launch a protest if the Centre fails to release financial assistance for drought relief.",
+   "sources": [
+    {
+     "name": "The Hindu",
+     "title": "Karnataka to launch ‘Delhi Chalo’ protest if Centre fails to release drought relief: Karnataka CM D.K. Shivakumar",
+     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece"
+    }
+   ]
+  },
+  {
+   "category": "India",
+   "headline": "Elderly Woman Thrashed and Raped at Mumbai Railway Station",
+   "blurb": "A 60-year-old woman was assaulted and raped inside a public washroom at a railway station in Mumbai.",
+   "sources": [
+    {
+     "name": "NDTV",
+     "title": "60-Year-Old Woman Thrashed, Raped Inside Toilet At Railway Station In Mumbai",
+     "url": "https://www.ndtv.com/mumbai-news/60-year-old-woman-thrashed-raped-inside-toilet-at-ghatkopar-railway-station-in-mumbai-12388159#publisher=newsstand"
+    }
+   ]
+  },
+  {
+   "category": "India",
+   "headline": "Thirty-Nine Naga Ancestral Remains Return Home After Century in UK",
+   "blurb": "Thirty-nine Naga ancestral remains returned to India from the United Kingdom and reached Dimapur Airport.",
+   "sources": [
+    {
+     "name": "NDTV",
+     "title": "39 Naga Ancestral Remains Return Home After Nearly A Century In UK",
+     "url": "https://www.ndtv.com/india-news/39-naga-ancestral-remains-return-home-after-nearly-a-century-in-uk-12388035#publisher=newsstand"
+    }
+   ]
+  },
+  {
+   "category": "Politics",
+   "headline": "Strobe Talbott dies at 80",
+   "blurb": "Strobe Talbott, former Time magazine reporter and deputy US secretary of state, has died at the age of 80.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+     "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead"
+    }
+   ]
+  },
+  {
+   "category": "Politics",
+   "headline": "New UK immigration rules could bar people for minor convictions",
+   "blurb": "New UK immigration rules will introduce strict thresholds where any adult conviction, such as an unpaid TV licence, could bar people from settling.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "Energy bills to soar by 26% for millions of households in January",
+   "blurb": "Energy bills will increase by 26% for millions of households in January due to a surge in gas prices.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Will new energy fixes cost more in January?",
+     "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "'We're scared to turn our heating on'",
+     "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Will new energy fixes cost more in January?",
+     "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "Banks may pass £1.5bn tax rise onto customers, warns Bank of England chief",
+   "blurb": "The Bank of England chief warns that big lenders may pass a temporary corporation tax increase on to their customers.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
+     "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "British Gas owner seeks urgent government talks over storage facility future",
+   "blurb": "The boss of Centrica has written an urgent memo regarding the future of a gas storage facility off the Yorkshire coast.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "British Gas owner seeks urgent government talks over future of storage facility",
+     "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "Bitcoin falls below $60,000 amid renewed selling pressure",
+   "blurb": "Bitcoin dropped below $60,000 and Ethereum neared $1,660 as selling pressure persisted despite a rebound in U.S. tech stocks.",
+   "sources": [
+    {
+     "name": "The Economic Times",
+     "title": "Bitcoin falls below $60,000, Ethereum nears $1,660 as renewed selling pressure persists despite US tech stocks rebound",
+     "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-below-60000-ethereum-nears-1660-as-renewed-selling-pressure-persists-despite-us-tech-stocks-rebound/articleshow/136241423.cms"
+    }
+   ]
+  },
+  {
+   "category": "Business",
+   "headline": "FSSAI sanctions prosecution against Bisleri over bacteria-positive sample",
+   "blurb": "Food safety regulators have sanctioned prosecution against Bisleri after a product sample tested positive for bacteria.",
+   "sources": [
+    {
+     "name": "The Hindu BusinessLine",
+     "title": "FSSAI sanctions prosecution against Bisleri over bacteria-positive sample",
+     "url": "https://www.thehindubusinessline.com/companies/fssai-sanctions-prosecution-against-bisleri-over-bacteria-positive-sample/article71753820.ece"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "AI chatbots disrupt UK restaurant bookings",
+   "blurb": "AI assistants meant to simplify user tasks are wreaking havoc with UK restaurant reservations, according to local business owners.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
+     "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "Meta whistleblower calls for stricter bans on NDAs for tech insiders",
+   "blurb": "A Meta whistleblower urged officials to go further with bans on non-disclosure agreements that silence tech insiders with AI concerns.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "Google ordered to halt Belgium datacenter construction",
+   "blurb": "Greenpeace reported that Google has been told to halt construction on a Belgian datacenter due to a lack of a valid planning permit.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+     "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "FBI estimates thousands involved in global cybercrime network targeting children",
+   "blurb": "The FBI estimates that thousands of individuals are members of The Com, a global cybercrime network posing a chilling threat to children.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children"
+    }
+   ]
+  },
+  {
+   "category": "Tech",
+   "headline": "Gamers use AI and leaks to clone Grand Theft Auto 6 for PC",
+   "blurb": "Impatient fans are utilizing artificial intelligence and leaked files to unofficial clone Grand Theft Auto 6 for PC platforms.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+     "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "Brain Area’s Mysterious Role in Speech Decoded",
+   "blurb": "Scientists have successfully decoded the mysterious role that Wernicke's area plays in human speech.",
+   "sources": [
+    {
+     "name": "Nature",
+     "title": "Brain area’s mysterious role in speech decoded at last",
+     "url": "https://www.nature.com/articles/d41586-026-03800-x"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "Life-Saving Cancer Drug Produced by a Plant in Proof-of-Concept Study",
+   "blurb": "Researchers demonstrated in a new study that a life-saving cancer drug can be successfully pumped out by a plant.",
+   "sources": [
+    {
+     "name": "Nature",
+     "title": "Life-saving cancer drug pumped out by a plant",
+     "url": "https://www.nature.com/articles/d41586-026-03801-w"
+    }
+   ]
+  },
+  {
+   "category": "Science",
+   "headline": "Capsized Diesel Tanker Off Ibiza to Be Towed Away",
+   "blurb": "A capsized tanker carrying 7,000 tonnes of diesel is scheduled to be towed away from Ibiza amid fears of a major oil spill.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+     "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Health",
+   "headline": "Pharmacies granted new powers to substitute prescriptions during shortages",
+   "blurb": "Pharmacies can now offer the same drug in a different strength or form if a medicine is out of stock.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Pharmacies get new powers to swap prescriptions during shortages",
+     "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Health",
+   "headline": "FDA extends assessment of experimental Vertex kidney drug",
+   "blurb": "The FDA is extending its review timeline for Vertex's investigational kidney drug.",
+   "sources": [
+    {
+     "name": "STAT",
+     "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+     "url": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Health",
+   "headline": "Severe ME leaves woman bedbound as campaigners warn of risks",
+   "blurb": "A woman has been left bedbound for five years with severe ME, prompting campaigners to warn that patients can die without service changes.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "'We feed and wash her': Severe ME leaves woman bedbound for five years",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "My partner has ME and it's kept her in bed for five years",
+     "url": "https://www.bbc.co.uk/news/videos/cq8r7yld3jzlo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "Tyson Fury cleared to fight Anthony Joshua",
+   "blurb": "The British Boxing Board of Control has licensed Tyson Fury to fight Anthony Joshua after mental health concerns were allayed.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Tyson Fury cleared to fight Anthony Joshua after mental health concerns allayed",
+     "url": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-cleared-fight-anthony-joshua-mental-health-concerns-allayed-boxing"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "USWNT secures 2027 Women's World Cup qualification",
+   "blurb": "The USWNT sealed qualification for the 2027 Women's World Cup and the 2028 Olympics with an 8-0 victory over El Salvador.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+     "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "New Zealand dominates India in second Test",
+   "blurb": "New Zealand's pace attack caused trouble for India as the team crumbled to 116 for 6 on day two of the second Test.",
+   "sources": [
+    {
+     "name": "The Hindu",
+     "title": "IND vs NZ second Test: Jamieson, Duffy run riot; India crumbles to 116 for 6",
+     "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-test-in-christchurch-day-2/article71753429.ece"
+    }
+   ]
+  },
+  {
+   "category": "Sports",
+   "headline": "Jerry Jones addresses Dallas Cowboys setbacks",
+   "blurb": "Dallas Cowboys owner Jerry Jones expressed frustration over damaging setbacks following a narrow 39-38 loss to the Eagles.",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Jerry Jones hits out at Cowboys’ ‘damning setbacks’ after latest meltdown",
+     "url": "https://www.theguardian.com/sport/2026/nov/27/dallas-cowboys-jerry-jones-brian-schottenheimer"
+    }
+   ]
+  },
+  {
+   "category": "Entertainment",
+   "headline": "GTA 6 Soundtrack Songs Climb UK Singles Chart",
+   "blurb": "Following its record launch, several songs featured on the GTA 6 video game soundtrack have entered the top end of the UK singles chart.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "GTA 6 crashes into top end of music chart after its record launch",
+     "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Entertainment",
+   "headline": "Five Gladiators Will Not Return for New BBC Series",
+   "blurb": "The BBC series Gladiators is set to feature a host of new faces when it returns next year after five cast members depart.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Five Gladiators will not return for new BBC series",
+     "url": "https://www.bbc.co.uk/news/articles/cm0jx92d07n5o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Entertainment",
+   "headline": "Downing Street Responds to Huw Edwards Backlash",
+   "blurb": "Downing Street stated that there is no interest in hearing from disgraced former BBC News presenter Huw Edwards following a backlash against new interviews.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+     "url": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "category": "Entertainment",
+   "headline": "Alun Wyn Jones Encourages Men to Discuss Hair Loss",
+   "blurb": "Former Wales captain Alun Wyn Jones has urged men to speak openly about hair loss following his own hair transplant procedure.",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Alun Wyn Jones urges men to talk about hair loss after transplant",
+     "url": "https://www.bbc.co.uk/news/articles/c5742dygzn31o?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  }
+ ]
+}
